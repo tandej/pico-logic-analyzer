@@ -1,0 +1,63 @@
+### Footprint positions - created on 2024-11-29T05:26:28-0800 ###
+### Printed by KiCad version 8.0.6+1
+## Unit = inches, Angle = deg.
+## Side : All
+# Ref     Val                        Package                                                 PosX       PosY       Rot  Side
+A1        RaspberryPi_Pico           RaspberryPi_Pico_Common_THT                           6.6185    -3.1248    0.0000  top
+C1        1_uF                       C_0402_1005Metric                                     7.2441    -2.6614  180.0000  top
+C2        4.7_uF                     C_0603_1608Metric                                     7.1654    -2.5236   90.0000  top
+C3        4.7_uF                     C_0603_1608Metric                                     7.2835    -2.4252  180.0000  top
+C4        1_uF                       C_0402_1005Metric                                     5.6299    -3.4933  -90.0000  top
+C5        1_uF                       C_0402_1005Metric                                     5.6299    -3.3079   90.0000  top
+C6        1_uF                       C_0402_1005Metric                                     5.6299    -2.6000  -90.0000  top
+C7        1_uF                       C_0402_1005Metric                                     5.6299    -2.4146   90.0000  top
+C8        1_uF                       C_0402_1005Metric                                     7.6181    -3.7606   90.0000  top
+C9        1_uF                       C_0402_1005Metric                                     7.6181    -3.9461  -90.0000  top
+D1        1.8v                       D_SOD-123                                             7.3720    -2.2146   90.0000  top
+D2        1A_500_mV_V_{F}            D_SOD-123F                                            7.4213    -2.5492  -90.0000  top
+D3        3.3v                       D_SOD-123                                             7.2795    -2.2146   90.0000  top
+J1        Conn_02x03_Odd_Even        PinSocket_2x03_P2.54mm_Horizontal                     7.7476    -2.5591  -90.0000  top
+J2        Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       5.2933    -3.3947    0.0000  top
+J3        Conn_02x03_Odd_Even        PinSocket_2x03_P2.54mm_Horizontal                     5.4724    -3.7567    0.0000  top
+J4        Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       5.2933    -2.5014    0.0000  top
+J5        Conn_02x03_Odd_Even        PinSocket_2x03_P2.54mm_Horizontal                     5.4724    -2.8634    0.0000  top
+J6        Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       7.9547    -3.8593  180.0000  top
+J7        Conn_02x03_Odd_Even        PinSocket_2x03_P2.54mm_Horizontal                     7.7756    -3.4972  180.0000  top
+J8        Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       8.2350    -2.4406  -90.0000  top
+J9        Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       8.2350    -2.6850  -90.0000  top
+J10       Conn_02x03_Odd_Even        PinHeader_2x03_P2.54mm_Vertical                       8.2362    -2.9291  -90.0000  top
+J11       Conn_01x01                 PinHeader_1x01_P2.54mm_Vertical                       7.9469    -4.2323  180.0000  top
+R1        390,_>1/10_W               R_0402_1005Metric                                     7.3720    -2.3524   90.0000  top
+R2        270,_>1/10_W               R_0402_1005Metric                                     7.2835    -2.3528   90.0000  top
+R3        100,_>1/32_W               R_0402_1005Metric                                     7.2047    -2.3524   90.0000  top
+R4        100k                       R_0402_1005Metric                                     5.9744    -3.6709  -90.0000  top
+R5        100k                       R_0402_1005Metric                                     5.9744    -3.7500   90.0000  top
+R6        100k                       R_0402_1005Metric                                     5.9744    -3.8677  -90.0000  top
+R7        100k                       R_0402_1005Metric                                     5.9744    -3.9469   90.0000  top
+R8        100k                       R_0402_1005Metric                                     5.9744    -2.7776  -90.0000  top
+R9        100k                       R_0402_1005Metric                                     5.9744    -2.8567   90.0000  top
+R10       100k                       R_0402_1005Metric                                     5.9744    -2.9744  -90.0000  top
+R11       100k                       R_0402_1005Metric                                     5.9744    -3.0535   90.0000  top
+R12       100k                       R_0402_1005Metric                                     7.2736    -3.5831   90.0000  top
+R13       100k                       R_0402_1005Metric                                     7.2736    -3.5039  -90.0000  top
+R14       100k                       R_0402_1005Metric                                     7.2736    -3.3862   90.0000  top
+R15       100k                       R_0402_1005Metric                                     7.2736    -3.3071  -90.0000  top
+R16       100_1%                     R_0402_1005Metric                                     7.8504    -2.5512  -90.0000  top
+R17       100_1%                     R_0402_1005Metric                                     7.9094    -2.5709  180.0000  top
+R18       1k_1%                      R_0402_1005Metric                                     7.9094    -2.5315  180.0000  top
+R19       100_1%                     R_0402_1005Metric                                     7.8504    -2.7524  -90.0000  top
+R20       100_1%                     R_0402_1005Metric                                     7.9059    -2.7327  180.0000  top
+R21       1k_1%                      R_0402_1005Metric                                     7.9059    -2.7720  180.0000  top
+R22       100_1%                     R_0402_1005Metric                                     7.8504    -3.0083  -90.0000  top
+R23       100_1%                     R_0402_1005Metric                                     7.9055    -2.9886  180.0000  top
+R24       1k_1%                      R_0402_1005Metric                                     7.9055    -3.0280  180.0000  top
+SW1       SW_Push                    SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS      7.1555    -3.0413   90.0000  top
+SW2       SW_DIP_x04                 SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm     5.6004    -3.6598    0.0000  top
+SW3       SW_DIP_x04                 SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm     5.6004    -2.7665    0.0000  top
+SW4       SW_DIP_x04                 SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm     7.6476    -3.5941  180.0000  top
+U1        LM2665M6                   SOT-23-6                                              7.2646    -2.5433   90.0000  top
+U2        LM4040DBZ-5                SOT-23                                                7.1580    -2.2421  180.0000  top
+U3        TXB0104PW_(fit_with_U104)  TSSOP-14_4.4x5mm_P0.65mm                              5.7598    -3.4001   90.0000  top
+U4        TXB0104PW_(fit_with_U104)  TSSOP-14_4.4x5mm_P0.65mm                              5.7598    -2.5068   90.0000  top
+U5        TXB0104PW_(fit_with_U104)  TSSOP-14_4.4x5mm_P0.65mm                              7.4882    -3.8538  -90.0000  top
+## End
