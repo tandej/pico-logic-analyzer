@@ -1,0 +1,18 @@
+** Drc report for pico-logic-analyzer.kicad_pcb **
+** Created on 2024-11-29T05:26:31-0800 **
+
+** Found 2 DRC violations **
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(197.2500 mm, 109.2500 mm): PCB Text 'A' on F.Mask
+    @(197.2500 mm, 109.2500 mm): PCB Text 'A' on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(196.5000 mm, 108.3000 mm): PCB Text 'A' on F.Mask
+    @(197.2500 mm, 109.2500 mm): PCB Text 'A' on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

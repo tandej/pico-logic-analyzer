@@ -4466,7 +4466,7 @@
 		(lib_id "Graphic:SYM_Arrow_Tiny")
 		(at 128.27 194.31 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board no)
 		(dnp no)
@@ -4515,15 +4515,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" "0"
-			(at 128.27 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "pico-logic-analyzer"
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
@@ -4537,7 +4528,7 @@
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
 		(at 110.49 195.58 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board no)
 		(dnp no)
@@ -4580,15 +4571,6 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 110.49 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 110.49 195.58 0)
 			(effects
 				(font
@@ -5594,7 +5576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module_RaspberryPi_Pico:RaspberryPi_Pico_Common_THT"
+		(property "Footprint" "Module_RaspberryPi_Pico:RaspberryPi_Pico_Common"
 			(at 148.59 139.7 0)
 			(effects
 				(font
