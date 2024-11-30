@@ -1,4 +1,4 @@
-ERC report (2024-11-29T05:26:19-0800, Encoding UTF8)
+ERC report (2024-11-30T04:25:20-0800, Encoding UTF8)
 
 ***** Sheet /
 [power_pin_not_driven]: Input Power pin not driven by any Output Power pins

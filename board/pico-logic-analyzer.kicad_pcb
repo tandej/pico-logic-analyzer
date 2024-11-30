@@ -18236,66 +18236,6 @@
 			(uuid "6c2146f3-4858-4e18-8774-2c106a466898")
 		)
 		(fp_line
-			(start -4.11 -27.01)
-			(end -4.11 -26.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e60dd09c-e6e0-4d72-bd55-7c47636f1841")
-		)
-		(fp_line
-			(start -4.11 -27.01)
-			(end 4.11 -27.01)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "90130327-1477-4fbc-8d11-61a4ec52d0af")
-		)
-		(fp_line
-			(start -4.11 -26.09)
-			(end -3.9 -26.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b11baa8b-7683-48aa-9cc5-46a5db00f18e")
-		)
-		(fp_line
-			(start -3.9 -26.09)
-			(end -3.9 -24.694)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e1aef621-94f8-478c-baac-16df1dc02bb3")
-		)
-		(fp_line
-			(start -3.9 -24.694)
-			(end -3.9 -22.306)
-			(stroke
-				(width 0.12)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "15ff1c29-37fa-4a55-bab9-c0152157b065")
-		)
-		(fp_line
-			(start -3.9 -22.306)
-			(end -3.9 -21.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "abca3386-faf8-4143-9ea0-75347d8e522a")
-		)
-		(fp_line
 			(start 3.6 25.61)
 			(end -3.6 25.61)
 			(stroke
@@ -18314,66 +18254,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "8fb5c769-0db3-4562-9941-8821cc4e6a02")
-		)
-		(fp_line
-			(start 3.9 -26.09)
-			(end 3.9 -24.694)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "753511db-9418-4fc7-b1ee-b7bd7b942158")
-		)
-		(fp_line
-			(start 3.9 -24.694)
-			(end 3.9 -22.306)
-			(stroke
-				(width 0.12)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "0d43f2bb-77fd-4484-997c-6c08d97d003a")
-		)
-		(fp_line
-			(start 3.9 -22.306)
-			(end 3.9 -21.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f340dc95-659d-4337-ba37-bf052e5fe608")
-		)
-		(fp_line
-			(start 3.9 -21.09)
-			(end -3.9 -21.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6ae8dd4f-8351-4e0b-a2e2-01f2be6ba4dc")
-		)
-		(fp_line
-			(start 4.11 -27.01)
-			(end 4.11 -26.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e9aebee4-b4b4-4896-9da9-6a6523ac63a4")
-		)
-		(fp_line
-			(start 4.11 -26.09)
-			(end 3.9 -26.09)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0abdc538-cfef-4f72-aa1c-67ea4c5bc674")
 		)
 		(fp_line
 			(start 4.235 -25.61)
@@ -18508,50 +18388,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "176f2d58-807f-4dfd-a5a5-9cb70e0c01c2")
-		)
-		(fp_circle
-			(center -5.7 -23.5)
-			(end -4.76 -23.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "98e9a834-7d0e-4a4b-adb7-6f9b83d546eb")
-		)
-		(fp_circle
-			(center -5.7 23.5)
-			(end -4.76 23.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "4d28b565-0932-4887-819c-07a9b82ebee0")
-		)
-		(fp_circle
-			(center 5.7 -23.5)
-			(end 6.64 -23.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "009560bd-4d29-4870-8f1e-32710db25273")
-		)
-		(fp_circle
-			(center 5.7 23.5)
-			(end 6.64 23.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "b2c23603-6e0c-48e7-af47-8a28589802df")
 		)
 		(fp_poly
 			(pts
@@ -19528,25 +19364,13 @@
 		)
 		(group ""
 			(uuid "4a7c554c-f6c8-4b3f-8673-ac1de6db1f22")
-			(members "009560bd-4d29-4870-8f1e-32710db25273" "3237392e-3631-4fbe-8069-eb66a816994e"
-				"4d28b565-0932-4887-819c-07a9b82ebee0" "8fb5c769-0db3-4562-9941-8821cc4e6a02"
-				"98e9a834-7d0e-4a4b-adb7-6f9b83d546eb" "ad6dcbdf-a433-482d-8795-e8572d8e5862"
-				"ad7bdab6-d3b0-46c7-897c-0ebbc0f05303" "b2c23603-6e0c-48e7-af47-8a28589802df"
+			(members "3237392e-3631-4fbe-8069-eb66a816994e" "8fb5c769-0db3-4562-9941-8821cc4e6a02"
+				"ad6dcbdf-a433-482d-8795-e8572d8e5862" "ad7bdab6-d3b0-46c7-897c-0ebbc0f05303"
 			)
 		)
 		(group ""
 			(uuid "844b13b4-c64d-4d16-8f58-ed5740e7f5a7")
-			(members "0abdc538-cfef-4f72-aa1c-67ea4c5bc674" "6ae8dd4f-8351-4e0b-a2e2-01f2be6ba4dc"
-				"6c2146f3-4858-4e18-8774-2c106a466898" "753511db-9418-4fc7-b1ee-b7bd7b942158"
-				"90130327-1477-4fbc-8d11-61a4ec52d0af" "abca3386-faf8-4143-9ea0-75347d8e522a"
-				"b11baa8b-7683-48aa-9cc5-46a5db00f18e" "e1aef621-94f8-478c-baac-16df1dc02bb3"
-				"e60dd09c-e6e0-4d72-bd55-7c47636f1841" "e9aebee4-b4b4-4896-9da9-6a6523ac63a4"
-				"f340dc95-659d-4337-ba37-bf052e5fe608"
-			)
-		)
-		(group ""
-			(uuid "c8f2a266-bed5-426e-8b4f-a7422f7cf02d")
-			(members "0d43f2bb-77fd-4484-997c-6c08d97d003a" "15ff1c29-37fa-4a55-bab9-c0152157b065")
+			(members "6c2146f3-4858-4e18-8774-2c106a466898")
 		)
 		(group ""
 			(uuid "f2c843f8-cc1a-4ff9-a76a-0635aee6d527")
@@ -24365,17 +24189,6 @@
 		(layer "B.SilkS")
 		(uuid "e174a414-3f56-4767-9613-a7e32fdc2e66")
 	)
-	(gr_rect
-		(start 162.1 56)
-		(end 174.4 80.75)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill solid)
-		(layer "B.SilkS")
-		(uuid "e392020a-f80c-49d3-a0e7-9ab44d61c530")
-	)
 	(gr_line
 		(start 203 55.5)
 		(end 202.75 55.25)
@@ -24542,19 +24355,6 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "DEV NOTES"
-		(at 168.3 55.7 0)
-		(layer "B.SilkS" knockout)
-		(uuid "091f46bf-aaad-4a05-8c74-606eb0cb73a0")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.375)
-				(bold yes)
-			)
-			(justify bottom mirror)
-		)
-	)
 	(gr_text "3.2mm Ø"
 		(at 209.25 102.5 0)
 		(layer "B.SilkS")
@@ -24595,8 +24395,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "REV 1 DEV\nNov 28 2024"
-		(at 153.75 109.25 0)
+	(gr_text "REV 1.1\nNov 30 2024"
+		(at 168 109 0)
 		(layer "B.SilkS")
 		(uuid "4a280450-0144-489d-a595-ac0b70310e32")
 		(effects
@@ -24605,7 +24405,7 @@
 				(thickness 0.25)
 				(bold yes)
 			)
-			(justify right bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "3.5mm"
@@ -24632,20 +24432,6 @@
 				(bold yes)
 			)
 			(justify bottom mirror)
-		)
-	)
-	(gr_text "Designed for sigrok-pico by pico-coder"
-		(at 157.323094 56 0)
-		(layer "B.SilkS")
-		(uuid "81316c7f-bdfb-4b51-97ad-1ffbf48f6b00")
-		(effects
-			(font
-				(size 0.75 0.75)
-				(thickness 0.1875)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left top mirror)
 		)
 	)
 	(gr_text "JLCJLCJLCJLC"
@@ -24675,31 +24461,18 @@
 			(justify left top mirror)
 		)
 	)
-	(gr_text "NOT FINAL!"
-		(at 168.3 107.75 0)
+	(gr_text "github.com/tandej/pico-logic-analyzer\ngithub.com/pico-coder/sigrok-pico\ngithub.com/recursivenomad/ki-lime-pi-to-go"
+		(at 174.25 54.25 90)
 		(layer "B.SilkS")
-		(uuid "c2187b7c-23e8-4f79-aa50-e2e8c0588233")
+		(uuid "c602b490-5907-43c5-a871-151ce564c8dd")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.25)
 				(bold yes)
-			)
-			(justify bottom mirror)
-		)
-	)
-	(gr_text "Uses recursivenomad's ki-lime-pi-to-go"
-		(at 199.85 106.7 0)
-		(layer "B.SilkS")
-		(uuid "c602b490-5907-43c5-a871-151ce564c8dd")
-		(effects
-			(font
-				(size 0.75 0.75)
-				(thickness 0.1875)
-				(bold yes)
 				(italic yes)
 			)
-			(justify left top mirror)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "1.8V"
@@ -24831,19 +24604,6 @@
 				(bold yes)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "NOT FINAL!"
-		(at 168.25 109.25 0)
-		(layer "F.SilkS")
-		(uuid "25fbe9ed-c84c-4443-b29d-2bfa8a4a650c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.25)
-				(bold yes)
-			)
-			(justify bottom)
 		)
 	)
 	(gr_text "PULLUP"
@@ -25237,20 +24997,6 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "Designed for sigrok-pico by pico-coder"
-		(at 132.75 56 0)
-		(layer "F.SilkS")
-		(uuid "6a201cc0-9b75-406d-8add-8f6511a94771")
-		(effects
-			(font
-				(size 0.75 0.75)
-				(thickness 0.1875)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left top)
-		)
-	)
 	(gr_text "V_{REF} SEL"
 		(at 135.725 61.56 0)
 		(layer "F.SilkS")
@@ -25576,8 +25322,8 @@
 			(justify left)
 		)
 	)
-	(gr_text "REV 1 DEV\nNov 28 2024"
-		(at 133.25 109.25 0)
+	(gr_text "REV 1.1\nNov 30 2024"
+		(at 168 109 0)
 		(layer "F.SilkS")
 		(uuid "cf603887-f831-4feb-87f3-acd9d7e2acec")
 		(effects
@@ -25586,7 +25332,7 @@
 				(thickness 0.25)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify bottom)
 		)
 	)
 	(gr_text "V_{REF} SEL"
