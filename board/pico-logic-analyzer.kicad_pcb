@@ -24395,8 +24395,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "REV 1.1\nNov 30 2024"
-		(at 168 109 0)
+	(gr_text "REV _RV DEV\nMON_DD_YYYY"
+		(at 167.5 109.25 0)
 		(layer "B.SilkS")
 		(uuid "4a280450-0144-489d-a595-ac0b70310e32")
 		(effects
@@ -24880,6 +24880,19 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "REV _RV DEV\nMON_DD_YYYY"
+		(at 167.5 109.25 -0)
+		(layer "F.SilkS")
+		(uuid "5295334b-fe9e-4aaf-a755-a7d9c1bc940f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "GND"
 		(at 208.5 95.75 90)
 		(layer "F.SilkS" knockout)
@@ -25283,19 +25296,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "git commit GITHASH"
-		(at 194.75 109 0)
-		(layer "F.SilkS")
-		(uuid "c8847ec7-5de1-478d-bea5-d84e8fdfc9c7")
-		(effects
-			(font
-				(size 0.75 0.75)
-				(thickness 0.15)
-				(bold yes)
-			)
-			(justify right bottom)
-		)
-	)
 	(gr_text "PULLDOWN"
 		(at 141.75 103.75 0)
 		(layer "F.SilkS")
@@ -25320,19 +25320,6 @@
 				(bold yes)
 			)
 			(justify left)
-		)
-	)
-	(gr_text "REV 1.1\nNov 30 2024"
-		(at 168 109 0)
-		(layer "F.SilkS")
-		(uuid "cf603887-f831-4feb-87f3-acd9d7e2acec")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.25)
-				(bold yes)
-			)
-			(justify bottom)
 		)
 	)
 	(gr_text "V_{REF} SEL"
