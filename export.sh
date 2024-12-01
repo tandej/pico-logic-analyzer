@@ -1,10 +1,13 @@
 #! /bin/sh
+revisionString="1.0"
+projectName="pico-logic-analyzer"
 
 echo "pre-commit hook: generating artifacts"
 
-commitHashReplaceText="GITHASH"
-gitHash=$(git rev-parse --short HEAD)
-projectName="pico-logic-analyzer"
+dateReplaceString="MON_DD_YYYY"
+revisionReplaceString="_RV"
+
+formattedDate=$(date +%b-%0d-%Y)
 
 rm -rf export-duplicate/*
 rm -rf generated/*
@@ -24,8 +27,9 @@ kicad-cli sch export svg --output=../generated/schematic "$projectName".kicad_sc
 echo "generating ERC report..."
 kicad-cli sch erc --output=../generated/reports/erc-report.txt "$projectName".kicad_sch >> /dev/null
 
-echo "replacing git hash placeholder..."
-sed -i -e "s/$commitHashReplaceText/$gitHash/" *.kicad_pcb
+echo "filling out placeholders..."
+sed -i -s -e "s/$dateReplaceString/$formattedDate/" *.kicad_pcb *.kicad_sch
+sed -i -s -e "s/$revisionReplaceString/$revisionString/" *.kicad_pcb *.kicad_sch
 
 echo "generating step file..."
 kicad-cli pcb export step --subst-models --output=../generated/"$projectName".step "$projectName".kicad_pcb >> /dev/null

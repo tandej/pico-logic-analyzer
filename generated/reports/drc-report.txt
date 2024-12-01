@@ -1,5 +1,5 @@
 ** Drc report for pico-logic-analyzer.kicad_pcb **
-** Created on 2024-11-29T05:26:31-0800 **
+** Created on 2024-11-30T18:30:35-0800 **
 
 ** Found 2 DRC violations **
 [solder_mask_bridge]: Front solder mask aperture bridges items with different nets
