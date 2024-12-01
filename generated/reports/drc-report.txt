@@ -1,5 +1,5 @@
 ** Drc report for pico-logic-analyzer.kicad_pcb **
-** Created on 2024-11-30T04:25:27-0800 **
+** Created on 2024-11-30T18:40:44-0800 **
 
 ** Found 3 DRC violations **
 [lib_footprint_mismatch]: Footprint 'RaspberryPi_Pico_Common_THT' does not match copy in library 'Module_RaspberryPi_Pico'.
