@@ -1,5 +1,5 @@
 #! /bin/sh
-revisionString="1.0"
+revisionString="2.0"
 projectName="pico-logic-analyzer"
 
 echo "pre-commit hook: generating artifacts"

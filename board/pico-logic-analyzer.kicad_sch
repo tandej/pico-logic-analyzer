@@ -4742,7 +4742,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1 uF"
+		(property "Value" "4.7 uF"
 			(at 29.21 139.0649 0)
 			(effects
 				(font
@@ -4751,7 +4751,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 33.9852 134.62 0)
 			(effects
 				(font
@@ -5576,7 +5576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module_RaspberryPi_Pico:RaspberryPi_Pico_Common"
+		(property "Footprint" "Module_RaspberryPi_Pico:RaspberryPi_Pico_Common_THT"
 			(at 148.59 139.7 0)
 			(effects
 				(font
