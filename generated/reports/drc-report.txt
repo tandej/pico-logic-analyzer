@@ -1,10 +1,40 @@
 ** Drc report for pico-logic-analyzer.kicad_pcb **
-** Created on 2024-11-30T18:40:44-0800 **
+** Created on 2024-12-24T01:45:43-0800 **
 
-** Found 3 DRC violations **
+** Found 11 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(186.5000 mm, 94.5000 mm): Pad 1 [Net-(RN3A-R1.1)] of RN3 on F.Cu
+    @(186.0000 mm, 94.5000 mm): Pad 2 [Net-(RN3B-R2.1)] of RN3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(185.5000 mm, 94.5000 mm): Pad 3 [Net-(RN3C-R3.1)] of RN3 on F.Cu
+    @(185.0000 mm, 94.5000 mm): Pad 4 [Net-(RN3D-R4.1)] of RN3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(149.7500 mm, 67.0000 mm): Pad 1 [Net-(RN2A-R1.1)] of RN2 on F.Cu
+    @(150.2500 mm, 67.0000 mm): Pad 2 [Net-(RN2B-R2.1)] of RN2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(150.7500 mm, 67.0000 mm): Pad 3 [Net-(RN2C-R3.1)] of RN2 on F.Cu
+    @(151.2500 mm, 67.0000 mm): Pad 4 [Net-(RN2D-R4.1)] of RN2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(149.7500 mm, 89.5000 mm): Pad 1 [Net-(RN1A-R1.1)] of RN1 on F.Cu
+    @(150.2500 mm, 89.5000 mm): Pad 2 [Net-(RN1B-R2.1)] of RN1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(150.7500 mm, 89.5000 mm): Pad 3 [Net-(RN1C-R3.1)] of RN1 on F.Cu
+    @(151.2500 mm, 89.5000 mm): Pad 4 [Net-(RN1D-R4.1)] of RN1 on F.Cu
+[lib_footprint_mismatch]: Footprint 'SOT-23' does not match copy in library 'Package_TO_SOT_SMD'.
+    Local override; warning
+    @(181.8125 mm, 56.9500 mm): Footprint U2
 [lib_footprint_mismatch]: Footprint 'RaspberryPi_Pico_Common_THT' does not match copy in library 'Module_RaspberryPi_Pico'.
     Local override; warning
     @(168.1100 mm, 79.3700 mm): Footprint A1
+[lib_footprint_mismatch]: Footprint 'SOT-23-6' does not match copy in library 'Package_TO_SOT_SMD'.
+    Local override; warning
+    @(184.5200 mm, 64.6000 mm): Footprint U1
 [solder_mask_bridge]: Front solder mask aperture bridges items with different nets
     Rule: board setup solder mask min width; error
     @(197.2500 mm, 109.2500 mm): PCB Text 'A' on F.Mask
