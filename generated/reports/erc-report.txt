@@ -1,4 +1,4 @@
-ERC report (2024-12-24T01:45:36-0800, Encoding UTF8)
+ERC report (2024-12-27T01:31:35-0800, Encoding UTF8)
 
 ***** Sheet /
 [power_pin_not_driven]: Input Power pin not driven by any Output Power pins
@@ -49,6 +49,18 @@ ERC report (2024-12-24T01:45:36-0800, Encoding UTF8)
 [power_pin_not_driven]: Input Power pin not driven by any Output Power pins
     ; error
     @(128.2700 mm, 76.2000 mm): Symbol U5 Pin 1 [VCCA, Power input, Line]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
 
 ***** Sheet /Buffer Block B/
 [lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
@@ -72,6 +84,18 @@ ERC report (2024-12-24T01:45:36-0800, Encoding UTF8)
 [power_pin_not_driven]: Input Power pin not driven by any Output Power pins
     ; error
     @(128.2700 mm, 76.2000 mm): Symbol U5 Pin 1 [VCCA, Power input, Line]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
 
 ***** Sheet /Buffer Block C/
 [lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
@@ -95,6 +119,18 @@ ERC report (2024-12-24T01:45:36-0800, Encoding UTF8)
 [power_pin_not_driven]: Input Power pin not driven by any Output Power pins
     ; error
     @(128.2700 mm, 76.2000 mm): Symbol U5 Pin 1 [VCCA, Power input, Line]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 121.9200 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(43.1800 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
+[lib_symbol_issues]: Symbol 'R_Pack04_SIP_Split' has been modified in library 'Device'
+    ; warning
+    @(58.4200 mm, 138.4300 mm): Symbol RN6 [R_Pack04_SIP_Split]
 
 ***** Sheet /Analog Divider Selector 2/
 
@@ -102,4 +138,4 @@ ERC report (2024-12-24T01:45:36-0800, Encoding UTF8)
 
 ***** Sheet /Analog Divider Selector 0/
 
- ** ERC messages: 29  Errors 17  Warnings 12
+ ** ERC messages: 41  Errors 17  Warnings 24

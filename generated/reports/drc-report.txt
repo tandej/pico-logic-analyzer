@@ -1,7 +1,7 @@
 ** Drc report for pico-logic-analyzer.kicad_pcb **
-** Created on 2024-12-24T01:45:43-0800 **
+** Created on 2024-12-27T01:31:42-0800 **
 
-** Found 11 DRC violations **
+** Found 23 DRC violations **
 [clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
     Rule: netclass 'Default'; error
     @(186.5000 mm, 94.5000 mm): Pad 1 [Net-(RN3A-R1.1)] of RN3 on F.Cu
@@ -20,12 +20,60 @@
     @(151.2500 mm, 67.0000 mm): Pad 4 [Net-(RN2D-R4.1)] of RN2 on F.Cu
 [clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
     Rule: netclass 'Default'; error
+    @(134.2500 mm, 104.2500 mm): Pad 1 [/Buffer Block A/A3_{CL}] of RN4 on F.Cu
+    @(134.7500 mm, 104.2500 mm): Pad 2 [/Buffer Block A/A2_{CL}] of RN4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(135.2500 mm, 104.2500 mm): Pad 3 [/Buffer Block A/A1_{CL}] of RN4 on F.Cu
+    @(135.7500 mm, 104.2500 mm): Pad 4 [/Buffer Block A/A0_{CL}] of RN4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(135.7500 mm, 103.2500 mm): Pad 5 [/Buffer Block A/A0] of RN4 on F.Cu
+    @(135.2500 mm, 103.2500 mm): Pad 6 [/Buffer Block A/A1] of RN4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(134.7500 mm, 103.2500 mm): Pad 7 [/Buffer Block A/A2] of RN4 on F.Cu
+    @(134.2500 mm, 103.2500 mm): Pad 8 [/Buffer Block A/A3] of RN4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(132.5000 mm, 81.7500 mm): Pad 1 [/Buffer Block B/A3_{CL}] of RN5 on F.Cu
+    @(132.5000 mm, 81.2500 mm): Pad 2 [/Buffer Block B/A2_{CL}] of RN5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(132.5000 mm, 80.7500 mm): Pad 3 [/Buffer Block B/A1_{CL}] of RN5 on F.Cu
+    @(132.5000 mm, 80.2500 mm): Pad 4 [/Buffer Block B/A0_{CL}] of RN5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(131.5000 mm, 80.2500 mm): Pad 5 [/Buffer Block B/A0] of RN5 on F.Cu
+    @(131.5000 mm, 80.7500 mm): Pad 6 [/Buffer Block B/A1] of RN5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(131.5000 mm, 81.2500 mm): Pad 7 [/Buffer Block B/A2] of RN5 on F.Cu
+    @(131.5000 mm, 81.7500 mm): Pad 8 [/Buffer Block B/A3] of RN5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
     @(149.7500 mm, 89.5000 mm): Pad 1 [Net-(RN1A-R1.1)] of RN1 on F.Cu
     @(150.2500 mm, 89.5000 mm): Pad 2 [Net-(RN1B-R2.1)] of RN1 on F.Cu
 [clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
     Rule: netclass 'Default'; error
     @(150.7500 mm, 89.5000 mm): Pad 3 [Net-(RN1C-R3.1)] of RN1 on F.Cu
     @(151.2500 mm, 89.5000 mm): Pad 4 [Net-(RN1D-R4.1)] of RN1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(202.7500 mm, 79.7500 mm): Pad 1 [/Buffer Block C/A3_{CL}] of RN6 on F.Cu
+    @(202.7500 mm, 80.2500 mm): Pad 2 [/Buffer Block C/A2_{CL}] of RN6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(202.7500 mm, 80.7500 mm): Pad 3 [/Buffer Block C/A1_{CL}] of RN6 on F.Cu
+    @(202.7500 mm, 81.2500 mm): Pad 4 [/Buffer Block C/A0_{CL}] of RN6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(203.7500 mm, 81.2500 mm): Pad 5 [/Buffer Block C/A0] of RN6 on F.Cu
+    @(203.7500 mm, 80.7500 mm): Pad 6 [/Buffer Block C/A1] of RN6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(203.7500 mm, 80.2500 mm): Pad 7 [/Buffer Block C/A2] of RN6 on F.Cu
+    @(203.7500 mm, 79.7500 mm): Pad 8 [/Buffer Block C/A3] of RN6 on F.Cu
 [lib_footprint_mismatch]: Footprint 'SOT-23' does not match copy in library 'Package_TO_SOT_SMD'.
     Local override; warning
     @(181.8125 mm, 56.9500 mm): Footprint U2
