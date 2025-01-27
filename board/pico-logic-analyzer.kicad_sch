@@ -3072,18 +3072,6 @@
 		(uuid "1c3aaae3-998b-49c3-826c-23371f58dd7f")
 	)
 	(junction
-		(at 53.34 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2a546a14-fd9e-45cd-9547-8e03a515e1c2")
-	)
-	(junction
-		(at 53.34 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38331686-372c-4c16-b9aa-b8145114119d")
-	)
-	(junction
 		(at 35.56 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3132,12 +3120,6 @@
 		(uuid "d352fd43-6790-4306-a541-795ba2829303")
 	)
 	(junction
-		(at 53.34 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4a6659b-23c7-47f1-9cce-b10358c20ce7")
-	)
-	(junction
 		(at 69.85 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3150,6 +3132,10 @@
 	(no_connect
 		(at 171.45 90.17)
 		(uuid "34a112bd-9c48-4c96-bb6a-98e17da73ccc")
+	)
+	(no_connect
+		(at 171.45 95.25)
+		(uuid "6e79105f-b4d2-4403-ac73-4baba40482a0")
 	)
 	(no_connect
 		(at 125.73 69.85)
@@ -3277,17 +3263,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 173.99) (xy 69.85 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54db5906-3090-427f-addc-178a6bbe82b2")
-	)
-	(wire
-		(pts
-			(xy 35.56 173.99) (xy 53.34 173.99)
+			(xy 35.56 173.99) (xy 69.85 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3307,7 +3283,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 158.75) (xy 69.85 158.75)
+			(xy 35.56 158.75) (xy 69.85 158.75)
 		)
 		(stroke
 			(width 0)
@@ -3364,16 +3340,6 @@
 			(type default)
 		)
 		(uuid "ca1da927-aac2-4fbb-b794-e78438f1aa53")
-	)
-	(wire
-		(pts
-			(xy 35.56 158.75) (xy 53.34 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd8e4d45-85a8-44bd-ab30-4773eb5e0a9f")
 	)
 	(wire
 		(pts
@@ -3435,16 +3401,6 @@
 		)
 		(uuid "ea641b82-52f5-4c54-b817-f6ce9b43dc45")
 	)
-	(wire
-		(pts
-			(xy 53.34 166.37) (xy 54.61 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4e85063-4e3e-411a-9d08-82db6927aa63")
-	)
 	(text "Worst-case power dissipation is when load on \n1.8v is maxxed and everything else is ~0mA.\nVoltage drop ~= 100 mV, I = 12.1 mA,\nP ~= 78 mW"
 		(exclude_from_sim no)
 		(at 53.086 177.546 0)
@@ -3486,30 +3442,8 @@
 		)
 		(uuid "da2945ee-7ff0-4c67-bb14-2939fadb1f75")
 	)
-	(text "270 ohms gives 10.4 mA"
-		(exclude_from_sim no)
-		(at 61.468 163.83 0)
-		(effects
-			(font
-				(size 0.75 0.75)
-			)
-		)
-		(uuid "e54cecb1-e504-4581-9765-8c9911ceb6b3")
-	)
-	(label "+3.3V_REG"
-		(at 157.48 157.48 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "01270d9e-719b-4078-b626-66ad4a28dd8c")
-	)
 	(label "+5V_REG"
 		(at 26.67 77.47 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3518,20 +3452,8 @@
 		)
 		(uuid "0851810e-234b-4dd1-bb70-7de72ad12e56")
 	)
-	(label "+3.3V_REG"
-		(at 74.93 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c5c4f79-c397-43b3-bde9-01927e859038")
-	)
 	(label "C0 {slash} IO16"
 		(at 40.64 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3542,7 +3464,6 @@
 	)
 	(label "A1_IN"
 		(at 257.81 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3553,7 +3474,6 @@
 	)
 	(label "+1.8V_REG"
 		(at 33.02 36.83 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3562,42 +3482,8 @@
 		)
 		(uuid "19ef6290-b5c4-47b7-b85e-f60c9a84bf9b")
 	)
-	(label "+3.3V_REG"
-		(at 171.45 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1df7dbf0-edd5-40d5-9daa-54f488ebbaa5")
-	)
-	(label "+3.3V_REG"
-		(at 35.56 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "22397300-944e-4766-96d3-8fec63081b10")
-	)
-	(label "+3.3V_REG"
-		(at 34.29 77.47 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "25075385-651a-4aa8-86c4-9bfeae82895c")
-	)
 	(label "A1 {slash} IO13"
 		(at 125.73 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3606,20 +3492,8 @@
 		)
 		(uuid "25849abe-f837-4410-9570-818efd346631")
 	)
-	(label "+3.3V_REG"
-		(at 69.85 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2dc16dd8-0da1-4347-b565-c2ea51cd4df1")
-	)
 	(label "+1.8V_REG"
 		(at 36.83 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3628,20 +3502,8 @@
 		)
 		(uuid "37ef050c-1bad-4ab8-9d67-ca62df7ce6cc")
 	)
-	(label "+1.8V_REG"
-		(at 148.59 157.48 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3e09557a-bc4d-46e0-80a7-18a599f6f2b4")
-	)
 	(label "+5V_REG"
 		(at 27.94 36.83 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3652,7 +3514,6 @@
 	)
 	(label "C2 {slash} IO018"
 		(at 171.45 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3663,7 +3524,6 @@
 	)
 	(label "A0_IN"
 		(at 224.79 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3674,7 +3534,6 @@
 	)
 	(label "+5V_REG"
 		(at 71.12 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3685,7 +3544,6 @@
 	)
 	(label "A0 {slash} IO12"
 		(at 125.73 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3696,7 +3554,6 @@
 	)
 	(label "C1 {slash} IO17"
 		(at 40.64 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3705,20 +3562,8 @@
 		)
 		(uuid "48b9135c-faae-4706-9425-5424f70faf05")
 	)
-	(label "+3.3V_REG"
-		(at 29.21 77.47 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a69b9a6-fbe8-46fb-a1d6-4ad4ed322497")
-	)
 	(label "A0_IN"
 		(at 257.81 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3729,7 +3574,6 @@
 	)
 	(label "B1 {slash} IO03"
 		(at 125.73 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3740,7 +3584,6 @@
 	)
 	(label "A2_IN"
 		(at 257.81 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3751,7 +3594,6 @@
 	)
 	(label "A1_DIV"
 		(at 171.45 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3762,7 +3604,6 @@
 	)
 	(label "A1_IN"
 		(at 224.79 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3771,20 +3612,8 @@
 		)
 		(uuid "65656a5a-7934-4872-b131-cfed9831f6fb")
 	)
-	(label "+5V_REG"
-		(at 166.37 157.48 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6807c5eb-19bd-44d5-bccf-d34196aff862")
-	)
 	(label "A0_DIV"
 		(at 248.92 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3795,7 +3624,6 @@
 	)
 	(label "A2 {slash} IO14"
 		(at 41.91 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3806,7 +3634,6 @@
 	)
 	(label "+1.8V_REG"
 		(at 31.75 77.47 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3817,7 +3644,6 @@
 	)
 	(label "C3 {slash} IO019"
 		(at 40.64 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3828,7 +3654,6 @@
 	)
 	(label "C0 {slash} IO16"
 		(at 171.45 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3839,7 +3664,6 @@
 	)
 	(label "C1 {slash} IO17"
 		(at 171.45 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3850,7 +3674,6 @@
 	)
 	(label "A1_DIV"
 		(at 248.92 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3861,7 +3684,6 @@
 	)
 	(label "A2_DIV"
 		(at 171.45 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3872,7 +3694,6 @@
 	)
 	(label "A1 {slash} IO13"
 		(at 41.91 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3883,7 +3704,6 @@
 	)
 	(label "C3 {slash} IO019"
 		(at 171.45 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3892,20 +3712,8 @@
 		)
 		(uuid "918c1bf0-c212-485b-a07c-6bc8cfe33f7e")
 	)
-	(label "+3.3V_REG"
-		(at 30.48 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "94644adf-c57a-46f3-9546-6c3979422e98")
-	)
 	(label "B1 {slash} IO03"
 		(at 81.28 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3916,7 +3724,6 @@
 	)
 	(label "A0 {slash} IO12"
 		(at 41.91 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3927,7 +3734,6 @@
 	)
 	(label "B3 {slash} IO05"
 		(at 125.73 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3938,7 +3744,6 @@
 	)
 	(label "B0 {slash} IO02"
 		(at 81.28 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3949,7 +3754,6 @@
 	)
 	(label "+1.8V_REG"
 		(at 72.39 36.83 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3960,7 +3764,6 @@
 	)
 	(label "A3 {slash} IO15"
 		(at 41.91 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3971,7 +3774,6 @@
 	)
 	(label "A2_IN"
 		(at 224.79 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3982,7 +3784,6 @@
 	)
 	(label "B0 {slash} IO02"
 		(at 125.73 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3993,7 +3794,6 @@
 	)
 	(label "+6.6V"
 		(at 67.31 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4004,7 +3804,6 @@
 	)
 	(label "A2 {slash} IO14"
 		(at 125.73 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4015,7 +3814,6 @@
 	)
 	(label "B2 {slash} IO04"
 		(at 125.73 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4026,7 +3824,6 @@
 	)
 	(label "A0_DIV"
 		(at 171.45 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4037,7 +3834,6 @@
 	)
 	(label "B2 {slash} IO04"
 		(at 81.28 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4048,7 +3844,6 @@
 	)
 	(label "C2 {slash} IO018"
 		(at 40.64 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4057,20 +3852,8 @@
 		)
 		(uuid "d09bfb63-0590-4c9c-93d6-faade3fface3")
 	)
-	(label "+3.3V_REG"
-		(at 54.61 166.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d494e5bb-f93b-48e8-853c-55cad4931737")
-	)
 	(label "+6.6V"
 		(at 73.66 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4081,7 +3864,6 @@
 	)
 	(label "B3 {slash} IO05"
 		(at 81.28 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4092,7 +3874,6 @@
 	)
 	(label "A2_DIV"
 		(at 248.92 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4103,7 +3884,6 @@
 	)
 	(label "+6.6V"
 		(at 128.27 179.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4114,7 +3894,6 @@
 	)
 	(label "A3 {slash} IO15"
 		(at 125.73 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4125,7 +3904,6 @@
 	)
 	(label "+5V_REG"
 		(at 67.31 36.83 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4198,73 +3976,6 @@
 			(project ""
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 157.48 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1559b802-53d4-4907-adb7-d72db8eba788")
-		(property "Reference" "TP2"
-			(at 160.02 153.5429 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 160.02 154.8129 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 162.56 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 162.56 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 157.48 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00a9b030-1b7e-4ada-8508-7f265d1ff8c7")
-		)
-		(instances
-			(project "pico-logic-analyzer"
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -4391,6 +4102,71 @@
 			(project "pico-logic-analyzer"
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 30.48 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a11b91b-f432-494c-9136-e048af3f335a")
+		(property "Reference" "#PWR014"
+			(at 30.48 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 29.718 31.242 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 30.48 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a428d578-a183-44c7-a2b6-b151b9af79ad")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -4583,6 +4359,71 @@
 			(project ""
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 74.93 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45379e80-aee7-4cce-8244-89bf462425b2")
+		(property "Reference" "#PWR018"
+			(at 74.93 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 74.168 31.242 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 74.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b5c109a-6d12-4c2f-a1d2-cd7d99f3e0da")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -4924,75 +4765,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 162.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "528edd33-8c01-4aad-b881-74dbdd8a2d80")
-		(property "Reference" "R2"
-			(at 55.626 160.782 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "270, >1/10 W"
-			(at 55.626 162.052 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 51.562 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 53.34 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a5b540e4-fcd1-405e-b7b2-79eae76efa40")
-		)
-		(pin "2"
-			(uuid "fd3a5206-97d7-4171-80cc-80661baf2295")
-		)
-		(instances
-			(project "pico-logic-analyzer"
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
 		(at 262.89 109.22 0)
 		(unit 1)
@@ -5270,143 +5042,6 @@
 			(project ""
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Zener")
-		(at 53.34 170.18 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8055b727-000f-4407-a371-7edad365d389")
-		(property "Reference" "D3"
-			(at 55.88 169.5449 90)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3.3v"
-			(at 55.88 170.8149 90)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 53.34 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Zener diode"
-			(at 53.34 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "94fc093d-541f-4b48-a3b2-4021d726251c")
-		)
-		(pin "2"
-			(uuid "1c58527c-b357-42d5-8799-caded1028cdd")
-		)
-		(instances
-			(project "pico-logic-analyzer"
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 148.59 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83c57231-b732-4098-9668-bf46296d855c")
-		(property "Reference" "TP1"
-			(at 151.13 153.5429 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 151.13 154.8129 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 153.67 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 148.59 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6f24b838-6677-454a-a1ef-9f6423c6d841")
-		)
-		(instances
-			(project ""
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
-					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -6013,73 +5648,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 166.37 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97df6d8d-e551-4f4d-9408-8393cd63dc53")
-		(property "Reference" "TP3"
-			(at 168.91 153.5429 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 168.91 154.8129 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 171.45 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 171.45 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 166.37 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c88e0df6-ee03-4c8a-a900-8b337dd2307b")
-		)
-		(instances
-			(project "pico-logic-analyzer"
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 63.5 57.15 0)
 		(unit 1)
@@ -6207,6 +5775,71 @@
 			(project ""
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 69.85 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b1ae16ab-f1a1-4b50-a13d-98e1992855f0")
+		(property "Reference" "#PWR017"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 69.088 31.242 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 69.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2af45748-ed88-49ff-950a-e9e0d4a204a8")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6408,6 +6041,136 @@
 			(project "pico-logic-analyzer"
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 34.29 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c17fae43-1a7f-42b7-93cc-d77f67ff3a41")
+		(property "Reference" "#PWR09"
+			(at 34.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 33.528 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9706df2f-2b72-4b45-8351-e7b739358390")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 29.21 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c46b866f-63c9-4a13-b9a6-ad958f3a7997")
+		(property "Reference" "#PWR05"
+			(at 29.21 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 28.448 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 29.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f3e9f77-0d32-4868-a6ba-a3dfefb3d7c3")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6680,6 +6443,71 @@
 			(project ""
 				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 35.56 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fb43c63c-0aa5-4d94-acd6-9172cf8b72af")
+		(property "Reference" "#PWR016"
+			(at 35.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 34.798 31.242 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 35.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "838ee69b-8a5c-4821-93ac-40eb616745ce")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)

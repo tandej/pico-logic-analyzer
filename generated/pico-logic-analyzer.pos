@@ -1,5 +1,5 @@
-### Footprint positions - created on 2024-12-27T01:31:40-0800 ###
-### Printed by KiCad version 8.0.6+1
+### Footprint positions - created on 2025-01-27T11:53:34-0800 ###
+### Printed by KiCad version 8.0.8+1
 ## Unit = inches, Angle = deg.
 ## Side : All
 # Ref     Val                                   Package                                                 PosX       PosY       Rot  Side
@@ -15,7 +15,6 @@ C8        1_uF                                  C_0402_1005Metric               
 C9        1_uF                                  C_0402_1005Metric                                     7.6181    -3.9461  -90.0000  top
 D1        1.8v                                  D_SOD-123                                             7.3720    -2.2146   90.0000  top
 D2        1A_500_mV_V_{F}                       D_SOD-123F                                            7.4213    -2.5492  -90.0000  top
-D3        3.3v                                  D_SOD-123                                             7.2795    -2.2146   90.0000  top
 D4        6.2_V_{z},__prefer_better_tolerances  SOT-23                                                5.3346    -4.2151  -90.0000  top
 D5        6.2_V_{z},__prefer_better_tolerances  SOT-23                                                5.3248    -3.2087  -90.0000  top
 D6        6.2_V_{z},__prefer_better_tolerances  SOT-23                                                7.7362    -3.1102  -90.0000  top
@@ -34,7 +33,6 @@ J9        Conn_02x03_Odd_Even                   PinHeader_2x03_P2.54mm_Vertical 
 J10       Conn_02x03_Odd_Even                   PinHeader_2x03_P2.54mm_Vertical                       8.2362    -2.9291  -90.0000  top
 J11       Conn_01x01                            PinHeader_1x01_P2.54mm_Vertical                       7.9469    -4.2323  180.0000  top
 R1        390,_>1/10_W                          R_0402_1005Metric                                     7.3720    -2.3524   90.0000  top
-R2        270,_>1/10_W                          R_0402_1005Metric                                     7.2835    -2.3528   90.0000  top
 R3        100,_>1/32_W                          R_0402_1005Metric                                     7.2047    -2.3524   90.0000  top
 R16       100_1%                                R_0402_1005Metric                                     7.8504    -2.5512  -90.0000  top
 R17       100_1%                                R_0402_1005Metric                                     7.9094    -2.5315  180.0000  top

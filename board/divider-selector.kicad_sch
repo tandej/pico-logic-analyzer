@@ -502,7 +502,6 @@
 	)
 	(label "half_sel"
 		(at 58.42 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -513,7 +512,6 @@
 	)
 	(label "eleventh_sel"
 		(at 58.42 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -525,7 +523,6 @@
 	(hierarchical_label "A_OUT"
 		(shape input)
 		(at 83.82 60.96 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -537,7 +534,6 @@
 	(hierarchical_label "A_IN"
 		(shape input)
 		(at 50.8 48.26 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
