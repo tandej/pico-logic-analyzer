@@ -3483,34 +3483,50 @@
 		)
 	)
 	(junction
+		(at 95.25 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a45101c-4aa1-4d3b-8c0f-2fb148f0bfaf")
+	)
+	(junction
 		(at 67.31 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "377b8106-2af0-4198-b0fb-2adaf3a3dbdc")
+		(uuid "604e8307-072f-49b4-a3e8-7b23f22be79a")
 	)
 	(junction
-		(at 67.31 83.82)
+		(at 133.35 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "399bd7e0-a02f-4c78-9aad-2da25e2a99ae")
-	)
-	(junction
-		(at 67.31 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4099c646-eecc-4ebc-8127-67136f5586b6")
-	)
-	(junction
-		(at 128.27 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81581b90-1895-4860-9e16-813805797c9a")
+		(uuid "751fcab8-f6f9-48e1-a6ac-5387255d3ee2")
 	)
 	(junction
 		(at 95.25 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "859c07b5-af2b-40cd-82fe-c285b1b7aca0")
+	)
+	(junction
+		(at 67.31 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8a082a0-48c5-4158-b4ac-0bdb6d28cec8")
+	)
+	(junction
+		(at 67.31 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dcbfbf6c-217a-4ab8-9135-f0a30cc49c34")
+	)
+	(wire
+		(pts
+			(xy 95.25 85.09) (xy 95.25 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0780bac7-2b80-48d7-b83b-56bc6cb4e3e3")
 	)
 	(wire
 		(pts
@@ -3524,6 +3540,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 81.28) (xy 67.31 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba37663-a1a7-4ab8-9c29-56d9c0cebf74")
+	)
+	(wire
+		(pts
 			(xy 133.35 69.85) (xy 142.24 69.85)
 		)
 		(stroke
@@ -3534,7 +3560,17 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 69.85) (xy 133.35 76.2)
+			(xy 120.65 74.93) (xy 133.35 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "138ad28c-36b3-48c5-805f-7647f930ee89")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 133.35 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3544,17 +3580,27 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 78.74) (xy 67.31 81.28)
+			(xy 67.31 86.36) (xy 67.31 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3aef47fa-7b38-4777-a9e6-76984dd81d74")
+		(uuid "2bce868d-9f5e-4592-b95d-4e3fa6addd89")
 	)
 	(wire
 		(pts
-			(xy 67.31 81.28) (xy 67.31 83.82)
+			(xy 120.65 81.28) (xy 120.65 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b736941-318a-4cc6-9846-564956fc9300")
+	)
+	(wire
+		(pts
+			(xy 67.31 78.74) (xy 67.31 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3574,23 +3620,23 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 86.36) (xy 67.31 87.63)
+			(xy 67.31 83.82) (xy 67.31 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "81cd311f-5ecf-4ad0-809c-f741c64579ba")
+		(uuid "8846a29f-b2ec-484b-b27e-8c8306f2f6f4")
 	)
 	(wire
 		(pts
-			(xy 120.65 81.28) (xy 120.65 76.2)
+			(xy 133.35 74.93) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a30139b-e97c-41f9-9c74-df32265df3a0")
+		(uuid "b1098b03-d851-4671-a943-64d67904e429")
 	)
 	(wire
 		(pts
@@ -3612,29 +3658,9 @@
 		)
 		(uuid "c3aa3e74-bb0e-458a-8148-b647a5845f92")
 	)
-	(wire
-		(pts
-			(xy 120.65 76.2) (xy 128.27 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c68fb4a7-dfbb-4d9c-88ab-596bc0efdacc")
-	)
-	(wire
-		(pts
-			(xy 67.31 83.82) (xy 67.31 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd347d4f-0a7e-466f-8918-ff1f33a5301b")
-	)
 	(text "This component is intended for PIN JUMPERS!"
 		(exclude_from_sim no)
-		(at 88.9 87.63 0)
+		(at 89.408 89.662 0)
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -3662,7 +3688,7 @@
 		)
 		(uuid "0fc18058-6a02-4c3e-90b9-8afc87c81504")
 	)
-	(label "A0"
+	(label "A2"
 		(at 82.55 106.68 180)
 		(effects
 			(font
@@ -3672,7 +3698,7 @@
 		)
 		(uuid "11d5d7ce-b3ec-4f8a-8672-9d87715d6e4b")
 	)
-	(label "A1"
+	(label "A3"
 		(at 95.25 106.68 0)
 		(effects
 			(font
@@ -3812,7 +3838,7 @@
 		)
 		(uuid "b193f1f8-4e9e-4ddc-b319-d2a85ea127a8")
 	)
-	(label "A2"
+	(label "A0"
 		(at 82.55 104.14 180)
 		(effects
 			(font
@@ -3822,7 +3848,7 @@
 		)
 		(uuid "c7e1f325-275d-4e79-8d01-3f96403e5c2d")
 	)
-	(label "A3"
+	(label "A1"
 		(at 95.25 104.14 0)
 		(effects
 			(font
@@ -3915,17 +3941,6 @@
 		)
 		(uuid "0aa6b8b9-fdcf-43ed-98ef-2d181a29e0b5")
 	)
-	(hierarchical_label "5v_REG"
-		(shape input)
-		(at 82.55 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0d21f84b-e829-4e46-bb87-80b6bc09fe0a")
-	)
 	(hierarchical_label "B2"
 		(shape input)
 		(at 140.97 96.52 0)
@@ -3981,6 +3996,17 @@
 		)
 		(uuid "6f3cf99a-d46a-49e5-92f0-b204e9b5cfc9")
 	)
+	(hierarchical_label "3.3v_REG"
+		(shape input)
+		(at 82.55 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71b9be51-8368-4981-93d3-ad9318fe9a13")
+	)
 	(hierarchical_label "GND"
 		(shape input)
 		(at 118.11 77.47 270)
@@ -3992,16 +4018,16 @@
 		)
 		(uuid "77bc754f-6f7b-4e3e-9a65-0a9a47e3d311")
 	)
-	(hierarchical_label "3.3v_REG"
+	(hierarchical_label "5v_REG"
 		(shape input)
-		(at 82.55 82.55 180)
+		(at 82.55 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "87903d2e-44ce-47cf-8592-98d8aa6f6c0d")
+		(uuid "89136ef6-78a4-4a62-b3b3-33de5fbcfae7")
 	)
 	(hierarchical_label "GND"
 		(shape input)
@@ -4027,7 +4053,7 @@
 	)
 	(hierarchical_label "1.8v_REG"
 		(shape input)
-		(at 82.55 85.09 180)
+		(at 82.55 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4050,7 +4076,7 @@
 	(symbol
 		(lib_name "R_Pack04_SIP_Split_1")
 		(lib_id "Device:R_Pack04_SIP_Split")
-		(at 63.5 83.82 270)
+		(at 63.5 81.28 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4058,7 +4084,7 @@
 		(dnp no)
 		(uuid "033f497d-a879-4d69-bb80-280e6aa10cbf")
 		(property "Reference" "RN3"
-			(at 69.342 83.312 90)
+			(at 69.342 80.772 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4066,7 +4092,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 69.342 84.582 90)
+			(at 69.342 82.042 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4074,7 +4100,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
-			(at 63.5 81.788 90)
+			(at 63.5 79.248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4083,7 +4109,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 63.5 83.82 0)
+			(at 63.5 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4092,7 +4118,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, SIP package, split"
-			(at 63.5 83.82 0)
+			(at 63.5 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4232,7 +4258,7 @@
 	(symbol
 		(lib_name "R_Pack04_SIP_Split_3")
 		(lib_id "Device:R_Pack04_SIP_Split")
-		(at 63.5 78.74 270)
+		(at 63.5 83.82 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4240,7 +4266,7 @@
 		(dnp no)
 		(uuid "2531a25e-d752-40cc-b11d-f98fcca01c0f")
 		(property "Reference" "RN3"
-			(at 69.342 77.978 90)
+			(at 69.342 83.058 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4248,7 +4274,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 69.342 79.248 90)
+			(at 69.342 84.328 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4256,7 +4282,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
-			(at 63.5 76.708 90)
+			(at 63.5 81.788 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4265,7 +4291,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 63.5 78.74 0)
+			(at 63.5 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4274,7 +4300,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, SIP package, split"
-			(at 63.5 78.74 0)
+			(at 63.5 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,7 +4368,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1 uF"
+		(property "Value" "4.7 uF"
 			(at 114.3 74.2949 0)
 			(effects
 				(font
@@ -4351,7 +4377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 119.0752 69.85 0)
 			(effects
 				(font
@@ -4402,8 +4428,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 142.24 73.66 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ac02645-b109-43f5-a705-ef10ecb027bc")
+		(property "Reference" "C5"
+			(at 146.05 73.0249 0)
+			(effects
+				(font
+					(size 0.75 0.75)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7 uF"
+			(at 146.05 74.2949 0)
+			(effects
+				(font
+					(size 0.75 0.75)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 141.2748 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 142.24 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9f266f58-842e-4785-bfe2-4874b604a622")
+		)
+		(pin "1"
+			(uuid "cd819053-92df-4d88-9684-147b78c2a4f0")
+		)
+		(instances
+			(project "pico-logic-analyzer"
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/02a3e6ad-fb78-475c-8d4a-3d3b34d1bc3a"
+					(reference "C9")
+					(unit 1)
+				)
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/19a5f4e3-5612-4557-a35e-469601cd8491"
+					(reference "C7")
+					(unit 1)
+				)
+				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/ee8d58a2-d109-49cd-9d6c-2837748d1e7f"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Pack04_SIP_Split")
-		(at 63.5 81.28 270)
+		(at 63.5 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4411,7 +4514,7 @@
 		(dnp no)
 		(uuid "63c61b91-600a-4d20-a4bf-04cd13d699bb")
 		(property "Reference" "RN3"
-			(at 69.342 80.264 90)
+			(at 69.342 85.344 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4419,7 +4522,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 69.342 81.534 90)
+			(at 69.342 86.614 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4427,7 +4530,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
-			(at 63.5 79.248 90)
+			(at 63.5 84.328 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4436,7 +4539,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 63.5 81.28 0)
+			(at 63.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,7 +4548,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, SIP package, split"
-			(at 63.5 81.28 0)
+			(at 63.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,86 +5001,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 142.24 73.66 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d1687c91-b8fc-4c86-bbf7-c0e35d588148")
-		(property "Reference" "C9"
-			(at 146.05 73.0249 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1 uF"
-			(at 146.05 74.2949 0)
-			(effects
-				(font
-					(size 0.75 0.75)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 141.2748 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 142.24 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "db0a4ed3-35dc-4336-a990-b2dbab29eb96")
-		)
-		(pin "1"
-			(uuid "6d0da776-af48-4063-bf9b-726e5fbe07fe")
-		)
-		(instances
-			(project "pico-logic-analyzer"
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/02a3e6ad-fb78-475c-8d4a-3d3b34d1bc3a"
-					(reference "C9")
-					(unit 1)
-				)
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/19a5f4e3-5612-4557-a35e-469601cd8491"
-					(reference "C7")
-					(unit 1)
-				)
-				(path "/7cf22b58-3beb-442b-8c1f-74d205325af0/ee8d58a2-d109-49cd-9d6c-2837748d1e7f"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "R_Pack04_SIP_Split_2")
 		(lib_id "Device:R_Pack04_SIP_Split")
-		(at 63.5 86.36 270)
+		(at 63.5 78.74 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4985,7 +5011,7 @@
 		(dnp no)
 		(uuid "e15d4832-e8fe-4f93-91c5-a0d31ee41cc3")
 		(property "Reference" "RN3"
-			(at 69.596 86.106 90)
+			(at 69.342 78.486 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -4993,7 +5019,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 69.596 87.376 90)
+			(at 69.342 79.756 90)
 			(effects
 				(font
 					(size 0.75 0.75)
@@ -5001,7 +5027,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
-			(at 63.5 84.328 90)
+			(at 63.5 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5010,7 +5036,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 63.5 86.36 0)
+			(at 63.5 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,7 +5045,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, SIP package, split"
-			(at 63.5 86.36 0)
+			(at 63.5 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)

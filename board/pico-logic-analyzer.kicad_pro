@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.8,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -606,18 +606,6 @@
     [
       "02a3e6ad-fb78-475c-8d4a-3d3b34d1bc3a",
       "Buffer Block C"
-    ],
-    [
-      "3638aa44-c194-42c2-9cdf-1750cda74c77",
-      "Analog Divider Selector 2"
-    ],
-    [
-      "88a3f5c9-d5c9-4878-ab52-9d3cb10108d4",
-      "Analog Divider Selector 1"
-    ],
-    [
-      "f051b581-5844-4239-8224-8517fc633305",
-      "Analog Divider Selector 0"
     ]
   ],
   "text_variables": {}
