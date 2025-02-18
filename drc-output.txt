@@ -1,0 +1,1403 @@
+** Drc report for pico-logic-analyzer.kicad_pcb **
+** Created on 2025-02-18T01:14:45+0000 **
+
+** Found 399 DRC violations **
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(134.0850 mm, 105.6700 mm): Pad 2 on F.Cu
+    @(134.0850 mm, 108.4575 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 2.7875 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(143.6650 mm, 111.1700 mm): Track [/Buffer Block A/A2_{CL}] on B.Cu, length 2.3617 mm
+    @(145.3350 mm, 109.5000 mm): PTH pad 3
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.3350 mm, 108.9700 mm): Pad 5 on F.Cu
+    @(137.3321 mm, 108.9700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.9971 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(111.2500 mm, 107.5000 mm): Pad 1 on F.Cu
+    @(111.2500 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.4471 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(132.1850 mm, 105.6700 mm): Pad 1 on F.Cu
+    @(132.1850 mm, 107.1260 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.4560 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.3350 mm, 109.6200 mm): Pad 4 on F.Cu
+    @(137.1335 mm, 109.6200 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.7985 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0850 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.4471 mm
+    @(140.0850 mm, 113.1700 mm): Pad 1 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0850 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.4471 mm
+    @(140.0850 mm, 113.1700 mm): Pad 1 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(114.0029 mm, 111.7000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.9971 mm
+    @(116.0000 mm, 111.7000 mm): Pad 5 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(117.2500 mm, 112.2125 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 2.7875 mm
+    @(117.2500 mm, 115.0000 mm): Pad 2 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(111.2500 mm, 107.5000 mm): Pad 1 on F.Cu
+    @(111.2500 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.4471 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.8593 mm, 111.3457 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 2.4406 mm
+    @(138.8593 mm, 111.3457 mm): Via [/Buffer Block A/A2_{CL}] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.3350 mm, 112.0400 mm): PTH pad 4
+    @(144.2050 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.5981 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.8350 mm, 99.9200 mm): Track [Net-(RN3C-R3.1)] on F.Cu, length 0.6157 mm
+    @(145.8350 mm, 99.9200 mm): Pad 3 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(106.0000 mm, 108.6300 mm): PTH pad 4
+    @(107.1300 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.5981 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.8593 mm, 111.3457 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 2.4406 mm
+    @(138.8593 mm, 111.3457 mm): Via [/Buffer Block A/A2_{CL}] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.8350 mm, 100.9200 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 6.7175 mm
+    @(150.5850 mm, 105.6700 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 4.0000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(152.9550 mm, 112.0400 mm): PTH pad 5
+    @(150.5850 mm, 109.6700 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 3.3517 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.5000 mm, 84.0000 mm): Track [/IO04] on B.Cu, length 2.8200 mm
+    @(131.5000 mm, 84.0000 mm): Via [/IO04] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.5850 mm, 113.1700 mm): Pad 2 on F.Cu
+    @(139.5850 mm, 113.1700 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.0985 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 85.4800 mm): Pad 34 on B.Cu
+    @(116.0000 mm, 85.4800 mm): Track [/A2] on B.Cu, length 5.6300 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.7500 mm, 110.2500 mm): Track [/IO14] on B.Cu, length 1.7678 mm
+    @(131.7500 mm, 110.2500 mm): Via [/IO14] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(133.0000 mm, 114.2500 mm): Track [/IO14] on B.Cu, length 2.4183 mm
+    @(133.0000 mm, 111.5000 mm): Track [/IO14] on B.Cu, length 2.7500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.2500 mm, 109.5000 mm): Track [/IO13] on B.Cu, length 2.7500 mm
+    @(131.2500 mm, 109.5000 mm): Via [/IO13] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.7900 mm, 73.7500 mm): Pad 3 on F.Cu
+    @(145.7900 mm, 73.7500 mm): Track [Net-(RN1C-R3.1)] on F.Cu, length 0.6157 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(121.7250 mm, 111.0500 mm): Pad 11 on F.Cu
+    @(120.2000 mm, 111.0500 mm): Track [/IO17] on F.Cu, length 2.0250 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(119.5000 mm, 111.7500 mm): Via [/IO17] on F.Cu - B.Cu
+    @(119.5000 mm, 111.7500 mm): Track [/IO17] on F.Cu, length 0.9899 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(152.9100 mm, 78.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 1.3700 mm
+    @(151.5400 mm, 78.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 7.0711 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(146.5400 mm, 73.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 0.7500 mm
+    @(145.7900 mm, 73.2500 mm): Pad 4 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(111.7500 mm, 106.5000 mm): Pad 7 on F.Cu
+    @(111.7500 mm, 106.5000 mm): Track [/Buffer Block C/A2] on F.Cu, length 4.1500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(145.2900 mm, 78.2500 mm): PTH pad 1
+    @(145.2900 mm, 79.2344 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9844 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(138.0321 mm, 86.2562 mm): Via [/Buffer Block B/A0_{CL}] on F.Cu - B.Cu
+    @(138.0321 mm, 86.2562 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.4862 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(142.6644 mm, 86.6000 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 3.0688 mm
+    @(138.3759 mm, 86.6000 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 4.2884 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(144.8344 mm, 84.4300 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9113 mm
+    @(145.7456 mm, 84.4300 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9113 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 95.6400 mm): Pad 30 on B.Cu
+    @(113.6100 mm, 95.6400 mm): Track [Net-(A1-RUN)] on B.Cu, length 2.3900 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(113.6100 mm, 95.6400 mm): Track [Net-(A1-RUN)] on B.Cu, length 2.3900 mm
+    @(113.2500 mm, 96.0000 mm): Track [Net-(A1-RUN)] on B.Cu, length 0.5091 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(107.5000 mm, 98.9200 mm): PTH pad 2
+    @(108.6500 mm, 100.0700 mm): Track [/Buffer Block C/A1] on F.Cu, length 1.6263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.2500 mm, 106.5000 mm): Track [/Buffer Block C/A1] on F.Cu, length 5.4500 mm
+    @(112.2500 mm, 106.5000 mm): Pad 6 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(145.2900 mm, 80.7900 mm): PTH pad 2
+    @(145.2900 mm, 80.7900 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.9600 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(138.2143 mm, 84.8210 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.8075 mm
+    @(142.7900 mm, 84.2500 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 4.0048 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(138.2143 mm, 85.4243 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.6033 mm
+    @(138.7900 mm, 86.0000 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.8142 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(107.5000 mm, 101.4600 mm): PTH pad 4
+    @(108.6500 mm, 102.6100 mm): Track [/Buffer Block C/A3] on F.Cu, length 1.6263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(111.2500 mm, 103.2500 mm): Track [/Buffer Block C/A3] on F.Cu, length 0.9051 mm
+    @(111.2500 mm, 106.5000 mm): Track [/Buffer Block C/A3] on F.Cu, length 3.2500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.7500 mm, 106.5000 mm): Track [/Buffer Block C/A0] on F.Cu, length 6.1500 mm
+    @(112.7500 mm, 100.3500 mm): Track [/Buffer Block C/A0] on F.Cu, length 2.0223 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(110.0400 mm, 98.9200 mm): PTH pad 1
+    @(111.3200 mm, 98.9200 mm): Track [/Buffer Block C/A0] on F.Cu, length 1.2800 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0850 mm, 114.1700 mm): Track [/Buffer Block A/A3] on F.Cu, length 3.2500 mm
+    @(140.0850 mm, 114.1700 mm): Pad 8 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(143.6200 mm, 85.0000 mm): Track [/Buffer Block B/A2_{CL}] on B.Cu, length 2.3617 mm
+    @(145.2900 mm, 83.3300 mm): PTH pad 3
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0850 mm, 117.4200 mm): Track [/Buffer Block A/A3] on F.Cu, length 0.9051 mm
+    @(140.7250 mm, 118.0600 mm): Track [/Buffer Block A/A3] on F.Cu, length 1.9600 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(143.8350 mm, 119.2100 mm): PTH pad 4
+    @(142.6850 mm, 118.0600 mm): Track [/Buffer Block A/A3] on F.Cu, length 1.6263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(120.2500 mm, 112.2500 mm): Track [/IO16] on F.Cu, length 0.7778 mm
+    @(121.7250 mm, 111.7000 mm): Pad 10 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.5000 mm, 111.2500 mm): Track [/IO15] on B.Cu, length 3.3700 mm
+    @(131.2500 mm, 111.0000 mm): Track [/IO15] on B.Cu, length 0.3536 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(120.2500 mm, 112.2500 mm): Via [/IO16] on F.Cu - B.Cu
+    @(120.2500 mm, 112.2500 mm): Track [/IO16] on F.Cu, length 0.7778 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.5000 mm, 114.6200 mm): Track [/IO15] on B.Cu, length 5.4871 mm
+    @(131.5000 mm, 111.2500 mm): Track [/IO15] on B.Cu, length 3.3700 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.5850 mm, 114.1700 mm): Pad 7 on F.Cu
+    @(139.5850 mm, 114.1700 mm): Track [/Buffer Block A/A2] on F.Cu, length 4.1500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(132.0000 mm, 82.5000 mm): Track [/IO03] on B.Cu, length 1.2800 mm
+    @(131.5000 mm, 83.0000 mm): Track [/IO03] on B.Cu, length 0.7071 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(130.3475 mm, 108.9700 mm): Track [/IO12] on F.Cu, length 0.3111 mm
+    @(130.5675 mm, 108.7500 mm): Track [/IO12] on F.Cu, length 0.6325 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(152.9550 mm, 104.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 1.3700 mm
+    @(151.5850 mm, 104.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 7.0711 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.8350 mm, 99.4200 mm): Pad 4 on F.Cu
+    @(146.5850 mm, 99.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 0.7500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(107.6700 mm, 109.5000 mm): Track [/Buffer Block C/A2_{CL}] on B.Cu, length 2.3617 mm
+    @(112.3000 mm, 109.5000 mm): Track [/Buffer Block C/A2_{CL}] on B.Cu, length 4.6300 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(110.1250 mm, 90.8050 mm): PTH pad 5
+    @(112.4200 mm, 93.1000 mm): Track [/A0] on B.Cu, length 3.2456 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 93.1000 mm): Pad 31 on B.Cu
+    @(116.0000 mm, 93.1000 mm): Track [/A0] on B.Cu, length 3.5800 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(98.3800 mm, 116.2500 mm): Track [Net-(RN6D-R4.1)] on F.Cu, length 1.3700 mm
+    @(98.3800 mm, 116.2500 mm): PTH pad 8
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(111.7500 mm, 108.5985 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.0985 mm
+    @(111.7500 mm, 107.5000 mm): Pad 2 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(104.7500 mm, 121.2500 mm): Track [Net-(RN6D-R4.1)] on F.Cu, length 0.7500 mm
+    @(99.7500 mm, 116.2500 mm): Track [Net-(RN6D-R4.1)] on F.Cu, length 7.0711 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.7900 mm, 74.7500 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 6.7175 mm
+    @(150.5400 mm, 79.5000 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 4.0000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.3350 mm, 110.9200 mm): Pad 2 on F.Cu
+    @(136.5913 mm, 110.9200 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 1.2563 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(152.9100 mm, 85.8700 mm): PTH pad 5
+    @(150.5400 mm, 83.5000 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 3.3517 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.5850 mm, 112.9137 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 2.8195 mm
+    @(138.0677 mm, 112.3964 mm): Via [/Buffer Block A/A0_{CL}] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.5850 mm, 112.9137 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 2.8195 mm
+    @(138.0677 mm, 112.3964 mm): Via [/Buffer Block A/A0_{CL}] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.4757 mm, 109.3243 mm): Via [/Buffer Block C/A2_{CL}] on F.Cu - B.Cu
+    @(112.4757 mm, 109.3243 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 2.4406 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(133.9850 mm, 113.4200 mm): Pad 1 on F.Cu
+    @(133.9850 mm, 111.5325 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 1.8875 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(119.5000 mm, 111.7500 mm): Track [/IO17] on B.Cu, length 2.4448 mm
+    @(119.5000 mm, 111.7500 mm): Via [/IO17] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.4757 mm, 109.3243 mm): Via [/Buffer Block C/A2_{CL}] on F.Cu - B.Cu
+    @(112.4757 mm, 109.3243 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 2.4406 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 115.9600 mm): Pad 22 on B.Cu
+    @(117.7348 mm, 115.9600 mm): Track [/IO17] on B.Cu, length 1.7348 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(119.8500 mm, 110.4000 mm): Track [/IO18] on F.Cu, length 2.3750 mm
+    @(121.7250 mm, 110.4000 mm): Pad 12 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 111.0500 mm): Pad 4 on F.Cu
+    @(114.2015 mm, 111.0500 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.7985 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(151.2900 mm, 81.7100 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 2.5100 mm
+    @(152.9100 mm, 83.3300 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 2.2910 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.7900 mm, 74.2500 mm): Pad 2 on F.Cu
+    @(151.2900 mm, 79.2000 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 7.0004 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(119.1500 mm, 115.0000 mm): Pad 1 on F.Cu
+    @(119.1500 mm, 113.5440 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.4560 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.5850 mm, 114.1700 mm): Pad 5 on F.Cu
+    @(138.5850 mm, 114.1700 mm): Track [/Buffer Block A/A0] on F.Cu, length 6.1500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(132.1400 mm, 79.5000 mm): Pad 1 on F.Cu
+    @(132.1400 mm, 80.9560 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.4560 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.5850 mm, 120.3200 mm): Track [/Buffer Block A/A0] on F.Cu, length 2.0223 mm
+    @(140.0150 mm, 121.7500 mm): Track [/Buffer Block A/A0] on F.Cu, length 1.2800 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.2900 mm, 83.4500 mm): Pad 4 on F.Cu
+    @(137.0885 mm, 83.4500 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.7985 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(135.3800 mm, 108.3400 mm): Pad 16 on B.Cu
+    @(131.6100 mm, 108.3400 mm): Track [/IO12] on B.Cu, length 3.7700 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.8143 mm, 85.1757 mm): Via [/Buffer Block B/A2_{CL}] on F.Cu - B.Cu
+    @(139.5400 mm, 85.9015 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.0263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.6100 mm, 108.3400 mm): Track [/IO12] on B.Cu, length 3.7700 mm
+    @(131.2500 mm, 108.7000 mm): Track [/IO12] on B.Cu, length 0.5091 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.8143 mm, 85.1757 mm): Via [/Buffer Block B/A2_{CL}] on F.Cu - B.Cu
+    @(139.5400 mm, 85.9015 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.0263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.5400 mm, 87.0000 mm): Pad 2 on F.Cu
+    @(139.5400 mm, 87.0000 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.0985 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.3350 mm, 110.2700 mm): Pad 3 on F.Cu
+    @(136.9350 mm, 110.2700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 1.6000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(113.1250 mm, 94.7500 mm): Pad 1 on F.Cu
+    @(113.1250 mm, 94.7500 mm): Track [Net-(A1-RUN)] on F.Cu, length 1.1250 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.5400 mm, 88.0000 mm): Track [/Buffer Block B/A0] on F.Cu, length 6.1500 mm
+    @(138.5400 mm, 88.0000 mm): Pad 5 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.8350 mm, 112.1700 mm): Via [/Buffer Block A/A1_{CL}] on F.Cu - B.Cu
+    @(138.8350 mm, 112.1700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 2.6870 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.9700 mm, 95.5800 mm): Track [/Buffer Block B/A0] on F.Cu, length 1.2800 mm
+    @(138.5400 mm, 94.1500 mm): Track [/Buffer Block B/A0] on F.Cu, length 2.0223 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.0850 mm, 112.4200 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 0.3536 mm
+    @(139.0850 mm, 113.1700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 0.7500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(120.2500 mm, 112.2500 mm): Via [/IO16] on F.Cu - B.Cu
+    @(120.2500 mm, 117.0000 mm): Track [/IO16] on B.Cu, length 4.7500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 118.5000 mm): Pad 21 on B.Cu
+    @(116.0000 mm, 118.5000 mm): Track [/IO16] on B.Cu, length 2.7500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0400 mm, 88.0000 mm): Track [/Buffer Block B/A3] on F.Cu, length 3.2500 mm
+    @(140.0400 mm, 88.0000 mm): Pad 8 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(135.2900 mm, 84.1000 mm): Pad 3 on F.Cu
+    @(136.8900 mm, 84.1000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 2.3375 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(138.7900 mm, 86.0000 mm): Via [/Buffer Block B/A1_{CL}] on F.Cu - B.Cu
+    @(139.0400 mm, 86.2500 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 0.3536 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.0400 mm, 87.0000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 0.7500 mm
+    @(139.0400 mm, 86.2500 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 0.3536 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.0400 mm, 88.0000 mm): Pad 6 on F.Cu
+    @(139.0400 mm, 88.0000 mm): Track [/Buffer Block B/A1] on F.Cu, length 5.4500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0400 mm, 91.2500 mm): Track [/Buffer Block B/A3] on F.Cu, length 0.9051 mm
+    @(140.6800 mm, 91.8900 mm): Track [/Buffer Block B/A3] on F.Cu, length 1.9600 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(143.7900 mm, 95.5800 mm): PTH pad 2
+    @(142.6400 mm, 94.4300 mm): Track [/Buffer Block B/A1] on F.Cu, length 1.6263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(142.6400 mm, 91.8900 mm): Track [/Buffer Block B/A3] on F.Cu, length 1.6263 mm
+    @(143.7900 mm, 93.0400 mm): PTH pad 4
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(98.3800 mm, 111.1700 mm): PTH pad 6
+    @(98.3800 mm, 111.1700 mm): Track [Net-(RN6B-R2.1)] on F.Cu, length 2.2910 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(100.0000 mm, 115.3000 mm): Track [Net-(RN6B-R2.1)] on F.Cu, length 7.0004 mm
+    @(100.0000 mm, 112.7900 mm): Track [Net-(RN6B-R2.1)] on F.Cu, length 2.5100 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(136.5259 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.2359 mm
+    @(136.6274 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.3374 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 108.3400 mm): Pad 25 on B.Cu
+    @(119.0900 mm, 108.3400 mm): Track [/IO19] on B.Cu, length 3.0900 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(105.5000 mm, 120.2500 mm): Pad 2 on F.Cu
+    @(104.9500 mm, 120.2500 mm): Track [Net-(RN6B-R2.1)] on F.Cu, length 0.5500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.6100 mm, 109.6200 mm): Pad 11 on F.Cu
+    @(129.6100 mm, 109.6200 mm): Track [/IO13] on F.Cu, length 1.5200 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(151.3350 mm, 107.8800 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 2.5100 mm
+    @(152.9550 mm, 109.5000 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 2.2910 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(146.3850 mm, 100.4200 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 0.5500 mm
+    @(145.8350 mm, 100.4200 mm): Pad 2 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(133.9400 mm, 87.2500 mm): Pad 1 on F.Cu
+    @(133.9400 mm, 85.3625 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.8875 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(117.3500 mm, 109.1375 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 1.8875 mm
+    @(117.3500 mm, 107.2500 mm): Pad 1 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.5400 mm, 88.0000 mm): Pad 7 on F.Cu
+    @(139.5400 mm, 88.0000 mm): Track [/Buffer Block B/A2] on F.Cu, length 4.1500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 110.8800 mm): Pad 24 on B.Cu
+    @(119.3700 mm, 110.8800 mm): Track [/IO18] on B.Cu, length 3.3700 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(120.2500 mm, 109.5000 mm): Track [/IO19] on B.Cu, length 1.6405 mm
+    @(120.2500 mm, 109.5000 mm): Via [/IO19] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(119.3700 mm, 110.8800 mm): Track [/IO18] on B.Cu, length 3.3700 mm
+    @(119.7500 mm, 110.5000 mm): Track [/IO18] on B.Cu, length 0.5374 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(139.0850 mm, 114.1700 mm): Pad 6 on F.Cu
+    @(139.0850 mm, 114.1700 mm): Track [/Buffer Block A/A1] on F.Cu, length 5.4500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(143.8350 mm, 121.7500 mm): PTH pad 2
+    @(142.6850 mm, 120.6000 mm): Track [/Buffer Block A/A1] on F.Cu, length 1.6263 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(110.1250 mm, 88.2650 mm): PTH pad 3
+    @(112.4200 mm, 90.5600 mm): Track [/A1] on B.Cu, length 3.2456 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(145.3350 mm, 106.9600 mm): PTH pad 2
+    @(145.3350 mm, 107.9200 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 3.5355 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 90.5600 mm): Pad 32 on B.Cu
+    @(116.0000 mm, 90.5600 mm): Track [/A1] on B.Cu, length 3.5800 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(138.2593 mm, 110.9910 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.8075 mm
+    @(142.8350 mm, 110.4200 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 4.0048 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(114.7437 mm, 109.7500 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 1.2563 mm
+    @(116.0000 mm, 109.7500 mm): Pad 2 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(145.3350 mm, 104.4200 mm): PTH pad 1
+    @(145.3350 mm, 104.4200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.5556 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(113.2673 mm, 108.2736 mm): Via [/Buffer Block C/A0_{CL}] on F.Cu - B.Cu
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.7316 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(144.2350 mm, 107.5200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 3.0406 mm
+    @(144.2350 mm, 105.5200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 2.0000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(113.2673 mm, 108.2736 mm): Via [/Buffer Block C/A0_{CL}] on F.Cu - B.Cu
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.7316 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(134.0400 mm, 79.5000 mm): Pad 2 on F.Cu
+    @(134.0400 mm, 82.2875 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 2.7875 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(138.2593 mm, 111.5943 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.6033 mm
+    @(138.8350 mm, 112.1700 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.8142 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 0.3291 mm
+    @(113.5000 mm, 108.5063 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.3141 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(109.2500 mm, 111.0000 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 3.0406 mm
+    @(112.3205 mm, 111.0000 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 3.0705 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(137.2871 mm, 82.8000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 1.9971 mm
+    @(135.2900 mm, 82.8000 mm): Pad 5 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(139.0145 mm, 109.6700 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.6681 mm
+    @(142.0850 mm, 109.6700 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 3.0705 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0400 mm, 87.0000 mm): Pad 1 on F.Cu
+    @(140.0400 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 4.1200 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(140.0400 mm, 87.0000 mm): Pad 1 on F.Cu
+    @(140.0400 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 4.1200 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(145.2900 mm, 85.8700 mm): PTH pad 4
+    @(144.1600 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 1.5981 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(107.1000 mm, 113.1500 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 2.0000 mm
+    @(107.1000 mm, 115.1500 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.5556 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(113.5000 mm, 108.5063 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.3141 mm
+    @(113.5000 mm, 109.8205 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.6681 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(137.8350 mm, 110.8495 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.3141 mm
+    @(137.8350 mm, 112.1637 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 0.3291 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(112.5000 mm, 108.5000 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 0.8142 mm
+    @(112.5000 mm, 108.5000 mm): Via [/Buffer Block C/A1_{CL}] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(108.5000 mm, 110.2500 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 3.5355 mm
+    @(112.5048 mm, 110.2500 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 4.0048 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(135.3800 mm, 85.4800 mm): Pad 7 on B.Cu
+    @(131.7300 mm, 85.4800 mm): Track [/IO05] on B.Cu, length 3.6500 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(116.0000 mm, 110.4000 mm): Pad 3 on F.Cu
+    @(114.4000 mm, 110.4000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 1.6000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.5000 mm, 108.5000 mm): Via [/Buffer Block C/A1_{CL}] on F.Cu - B.Cu
+    @(112.5000 mm, 108.5000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 0.3536 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(112.2500 mm, 108.2500 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 0.7500 mm
+    @(112.2500 mm, 107.5000 mm): Pad 3 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(106.0000 mm, 112.7500 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 0.9600 mm
+    @(108.5000 mm, 110.2500 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 3.5355 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(113.0757 mm, 109.0757 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 0.6033 mm
+    @(113.0757 mm, 109.6790 mm): Track [/Buffer Block C/A1_{CL}] on B.Cu, length 0.8075 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.2500 mm, 85.0000 mm): Track [/IO05] on B.Cu, length 0.6788 mm
+    @(131.2500 mm, 85.0000 mm): Via [/IO05] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (B.Cu)
+    Rule: board setup constraints; warning
+    @(131.2500 mm, 82.0000 mm): Track [/IO02] on B.Cu, length 0.7071 mm
+    @(131.2500 mm, 82.0000 mm): Via [/IO02] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(131.5000 mm, 83.0000 mm): Via [/IO03] on F.Cu - B.Cu
+    @(131.0500 mm, 83.4500 mm): Track [/IO03] on F.Cu, length 0.6364 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.5650 mm, 83.4500 mm): Track [/IO03] on F.Cu, length 1.4850 mm
+    @(129.5650 mm, 83.4500 mm): Pad 11 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(105.5000 mm, 120.7500 mm): Pad 3 on F.Cu
+    @(105.5000 mm, 120.7500 mm): Track [Net-(RN6C-R3.1)] on F.Cu, length 0.6157 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.5650 mm, 84.1000 mm): Pad 12 on F.Cu
+    @(129.5650 mm, 84.1000 mm): Track [/IO04] on F.Cu, length 1.8350 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.6100 mm, 110.9200 mm): Track [/IO15] on F.Cu, length 1.5600 mm
+    @(129.6100 mm, 110.9200 mm): Pad 13 on F.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(98.3800 mm, 108.6300 mm): PTH pad 5
+    @(100.7500 mm, 111.0000 mm): Track [Net-(RN6A-R1.1)] on F.Cu, length 3.3517 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2012 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(105.5000 mm, 119.7500 mm): Track [Net-(RN6A-R1.1)] on F.Cu, length 6.7175 mm
+    @(100.7500 mm, 115.0000 mm): Track [Net-(RN6A-R1.1)] on F.Cu, length 4.0000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.5650 mm, 84.7500 mm): Pad 13 on F.Cu
+    @(129.5650 mm, 84.7500 mm): Track [/IO05] on F.Cu, length 1.4350 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(131.2500 mm, 85.0000 mm): Via [/IO05] on F.Cu - B.Cu
+    @(129.5650 mm, 84.7500 mm): Track [/IO05] on F.Cu, length 1.4350 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2004 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(131.7300 mm, 110.2700 mm): Track [/IO14] on F.Cu, length 0.0283 mm
+    @(129.6100 mm, 110.2700 mm): Track [/IO14] on F.Cu, length 2.1200 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(130.4500 mm, 82.8000 mm): Track [/IO02] on F.Cu, length 1.1314 mm
+    @(131.2500 mm, 82.0000 mm): Via [/IO02] on F.Cu - B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.2032 mm; actual 0.2000 mm) (F.Cu)
+    Rule: board setup constraints; warning
+    @(129.5650 mm, 82.8000 mm): Track [/IO02] on F.Cu, length 0.8850 mm
+    @(130.4500 mm, 82.8000 mm): Track [/IO02] on F.Cu, length 1.1314 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(128.7500 mm, 76.2500 mm): Track [+3V3] on F.Cu, length 8.4850 mm
+    @(139.2750 mm, 75.7500 mm): Track [/+5V_REG] on F.Cu, length 11.2750 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.2750 mm, 75.7500 mm): Track [/+5V_REG] on F.Cu, length 11.2750 mm
+    @(137.2350 mm, 76.2500 mm): Track [+3V3] on F.Cu, length 3.2598 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.2750 mm, 75.7500 mm): Track [/+5V_REG] on F.Cu, length 11.2750 mm
+    @(127.7500 mm, 77.2500 mm): Track [+3V3] on F.Cu, length 1.4142 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.1450 mm, 89.1450 mm): Track [/+1.8V_REG] on F.Cu, length 2.8550 mm
+    @(127.6460 mm, 91.1460 mm): Track [/+5V_REG] on F.Cu, length 2.7987 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.6460 mm, 88.9375 mm): Track [/+5V_REG] on F.Cu, length 0.4150 mm
+    @(127.1450 mm, 89.1450 mm): Track [/+1.8V_REG] on F.Cu, length 2.8550 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.1450 mm, 89.1450 mm): Track [/+1.8V_REG] on F.Cu, length 2.8550 mm
+    @(127.3525 mm, 88.6440 mm): Track [/+5V_REG] on F.Cu, length 0.4150 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.1450 mm, 89.1450 mm): Track [/+1.8V_REG] on F.Cu, length 2.8550 mm
+    @(127.6460 mm, 89.3525 mm): Track [/+5V_REG] on F.Cu, length 1.7935 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(125.5000 mm, 117.0000 mm): Track [/+5V_REG] on F.Cu, length 9.7500 mm
+    @(127.9475 mm, 106.0525 mm): Track [/+1.8V_REG] on F.Cu, length 2.7542 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.0000 mm, 76.7500 mm): Track [/+5V_REG] on F.Cu, length 11.5415 mm
+    @(126.2500 mm, 88.2500 mm): Track [/+1.8V_REG] on F.Cu, length 1.2657 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.0000 mm, 88.2915 mm): Track [/+5V_REG] on F.Cu, length 0.4985 mm
+    @(126.2500 mm, 88.2500 mm): Track [/+1.8V_REG] on F.Cu, length 1.2657 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.6460 mm, 88.9375 mm): Track [/+5V_REG] on F.Cu, length 0.4150 mm
+    @(126.2500 mm, 88.2500 mm): Track [/+1.8V_REG] on F.Cu, length 1.2657 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.3525 mm, 88.6440 mm): Track [/+5V_REG] on F.Cu, length 0.4150 mm
+    @(126.2500 mm, 88.2500 mm): Track [/+1.8V_REG] on F.Cu, length 1.2657 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1510 mm)
+    Local override; error
+    @(127.3525 mm, 88.6440 mm): Track [/+5V_REG] on F.Cu, length 0.0000 mm
+    @(126.2500 mm, 88.2500 mm): Track [/+1.8V_REG] on F.Cu, length 1.2657 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(125.5000 mm, 117.0000 mm): Track [/+5V_REG] on F.Cu, length 9.7500 mm
+    @(126.0000 mm, 108.0000 mm): Track [/+1.8V_REG] on F.Cu, length 10.0000 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(124.0000 mm, 118.5000 mm): Track [/+5V_REG] on F.Cu, length 2.1213 mm
+    @(126.0000 mm, 108.0000 mm): Track [/+1.8V_REG] on F.Cu, length 10.0000 mm
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(140.0400 mm, 87.0000 mm): Pad 1 on F.Cu
+    @(139.5400 mm, 87.0000 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.0400 mm, 87.0000 mm): Pad 3 on F.Cu
+    @(138.5400 mm, 87.0000 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(138.5400 mm, 88.0000 mm): Pad 5 on F.Cu
+    @(139.0400 mm, 88.0000 mm): Pad 6 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.5400 mm, 88.0000 mm): Pad 7 on F.Cu
+    @(140.0400 mm, 88.0000 mm): Pad 8 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(105.5000 mm, 119.7500 mm): Pad 1 on F.Cu
+    @(105.5000 mm, 120.2500 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(105.5000 mm, 120.7500 mm): Pad 3 on F.Cu
+    @(105.5000 mm, 121.2500 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(145.7900 mm, 74.7500 mm): Pad 1 on F.Cu
+    @(145.7900 mm, 74.2500 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(145.7900 mm, 73.7500 mm): Pad 3 on F.Cu
+    @(145.7900 mm, 73.2500 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(145.8350 mm, 100.9200 mm): Pad 1 on F.Cu
+    @(145.8350 mm, 100.4200 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(145.8350 mm, 99.9200 mm): Pad 3 on F.Cu
+    @(145.8350 mm, 99.4200 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(140.0850 mm, 113.1700 mm): Pad 1 on F.Cu
+    @(139.5850 mm, 113.1700 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.0850 mm, 113.1700 mm): Pad 3 on F.Cu
+    @(138.5850 mm, 113.1700 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(138.5850 mm, 114.1700 mm): Pad 5 on F.Cu
+    @(139.0850 mm, 114.1700 mm): Pad 6 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(139.5850 mm, 114.1700 mm): Pad 7 on F.Cu
+    @(140.0850 mm, 114.1700 mm): Pad 8 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(111.2500 mm, 107.5000 mm): Pad 1 on F.Cu
+    @(111.7500 mm, 107.5000 mm): Pad 2 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(112.2500 mm, 107.5000 mm): Pad 3 on F.Cu
+    @(112.7500 mm, 107.5000 mm): Pad 4 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(112.7500 mm, 106.5000 mm): Pad 5 on F.Cu
+    @(112.2500 mm, 106.5000 mm): Pad 6 on F.Cu
+[clearance]: Clearance violation (board minimum clearance 0.1524 mm; actual 0.1500 mm)
+    Local override; error
+    @(111.7500 mm, 106.5000 mm): Pad 7 on F.Cu
+    @(111.2500 mm, 106.5000 mm): Pad 8 on F.Cu
+[lib_footprint_mismatch]: Footprint 'SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm' does not match copy in library 'Button_Switch_THT'.
+    Local override; warning
+    @(145.2900 mm, 78.2500 mm): Footprint SW1
+[lib_footprint_mismatch]: Footprint 'SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm' does not match copy in library 'Button_Switch_THT'.
+    Local override; warning
+    @(106.0000 mm, 116.2500 mm): Footprint SW4
+[lib_footprint_mismatch]: Footprint 'SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm' does not match copy in library 'Button_Switch_THT'.
+    Local override; warning
+    @(145.3350 mm, 104.4200 mm): Footprint SW3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'asa-lib'.
+    Local override; warning
+    @(125.6900 mm, 94.3700 mm): Footprint A1
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5400 mm, 94.1500 mm): Track [/Buffer Block B/A0] on F.Cu, length 2.0223 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.9700 mm, 95.5800 mm): Track [/Buffer Block B/A0] on F.Cu, length 1.2800 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5400 mm, 88.0000 mm): Track [/Buffer Block B/A0] on F.Cu, length 6.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0400 mm, 91.2500 mm): Track [/Buffer Block B/A3] on F.Cu, length 0.9051 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.6400 mm, 91.8900 mm): Track [/Buffer Block B/A3] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0400 mm, 88.0000 mm): Track [/Buffer Block B/A3] on F.Cu, length 3.2500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.6800 mm, 91.8900 mm): Track [/Buffer Block B/A3] on F.Cu, length 1.9600 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0400 mm, 93.4500 mm): Track [/Buffer Block B/A1] on F.Cu, length 1.3859 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0200 mm, 94.4300 mm): Track [/Buffer Block B/A1] on F.Cu, length 2.6200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0400 mm, 88.0000 mm): Track [/Buffer Block B/A1] on F.Cu, length 5.4500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.6400 mm, 94.4300 mm): Track [/Buffer Block B/A1] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5400 mm, 92.1500 mm): Track [/Buffer Block B/A2] on F.Cu, length 1.2587 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.4300 mm, 93.0400 mm): Track [/Buffer Block B/A2] on F.Cu, length 0.8200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5400 mm, 88.0000 mm): Track [/Buffer Block B/A2] on F.Cu, length 4.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.6850 mm, 120.6000 mm): Track [/Buffer Block A/A1] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0850 mm, 119.6200 mm): Track [/Buffer Block A/A1] on F.Cu, length 1.3859 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0850 mm, 114.1700 mm): Track [/Buffer Block A/A1] on F.Cu, length 5.4500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0650 mm, 120.6000 mm): Track [/Buffer Block A/A1] on F.Cu, length 2.6200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5850 mm, 114.1700 mm): Track [/Buffer Block A/A0] on F.Cu, length 6.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5850 mm, 120.3200 mm): Track [/Buffer Block A/A0] on F.Cu, length 2.0223 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0150 mm, 121.7500 mm): Track [/Buffer Block A/A0] on F.Cu, length 1.2800 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.4750 mm, 119.2100 mm): Track [/Buffer Block A/A2] on F.Cu, length 0.8200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5850 mm, 114.1700 mm): Track [/Buffer Block A/A2] on F.Cu, length 4.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5850 mm, 118.3200 mm): Track [/Buffer Block A/A2] on F.Cu, length 1.2587 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.6850 mm, 118.0600 mm): Track [/Buffer Block A/A3] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0850 mm, 114.1700 mm): Track [/Buffer Block A/A3] on F.Cu, length 3.2500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.7250 mm, 118.0600 mm): Track [/Buffer Block A/A3] on F.Cu, length 1.9600 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0850 mm, 117.4200 mm): Track [/Buffer Block A/A3] on F.Cu, length 0.9051 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(110.6100 mm, 102.6100 mm): Track [/Buffer Block C/A3] on F.Cu, length 1.9600 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(108.6500 mm, 102.6100 mm): Track [/Buffer Block C/A3] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2500 mm, 106.5000 mm): Track [/Buffer Block C/A3] on F.Cu, length 3.2500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2500 mm, 103.2500 mm): Track [/Buffer Block C/A3] on F.Cu, length 0.9051 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.7500 mm, 106.5000 mm): Track [/Buffer Block C/A0] on F.Cu, length 6.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.7500 mm, 100.3500 mm): Track [/Buffer Block C/A0] on F.Cu, length 2.0223 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.3200 mm, 98.9200 mm): Track [/Buffer Block C/A0] on F.Cu, length 1.2800 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.2500 mm, 106.5000 mm): Track [/Buffer Block C/A1] on F.Cu, length 5.4500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.2500 mm, 101.0500 mm): Track [/Buffer Block C/A1] on F.Cu, length 1.3859 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2700 mm, 100.0700 mm): Track [/Buffer Block C/A1] on F.Cu, length 2.6200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(108.6500 mm, 100.0700 mm): Track [/Buffer Block C/A1] on F.Cu, length 1.6263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(110.8600 mm, 101.4600 mm): Track [/Buffer Block C/A2] on F.Cu, length 0.8200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.7500 mm, 106.5000 mm): Track [/Buffer Block C/A2] on F.Cu, length 4.1500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.7500 mm, 102.3500 mm): Track [/Buffer Block C/A2] on F.Cu, length 1.2587 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.2900 mm, 79.2000 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 7.0004 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.3400 mm, 74.2500 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 0.5500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.2900 mm, 81.7100 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 2.5100 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(152.9100 mm, 83.3300 mm): Track [Net-(RN1B-R2.1)] on F.Cu, length 2.2910 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(152.9100 mm, 78.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 1.3700 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.5400 mm, 73.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 0.7500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.5400 mm, 78.2500 mm): Track [Net-(RN1D-R4.1)] on F.Cu, length 7.0711 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.4057 mm, 73.7500 mm): Track [Net-(RN1C-R3.1)] on F.Cu, length 9.1985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.7900 mm, 73.7500 mm): Track [Net-(RN1C-R3.1)] on F.Cu, length 0.6157 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(150.5400 mm, 79.5000 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 4.0000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(150.5400 mm, 83.5000 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 3.3517 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.7900 mm, 74.7500 mm): Track [Net-(RN1A-R1.1)] on F.Cu, length 6.7175 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.1250 mm, 94.7500 mm): Track [Net-(A1-RUN)] on F.Cu, length 1.1250 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.1250 mm, 95.8750 mm): Track [Net-(A1-RUN)] on F.Cu, length 0.1768 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.6100 mm, 95.6400 mm): Track [Net-(A1-RUN)] on B.Cu, length 2.3900 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.2500 mm, 96.0000 mm): Track [Net-(A1-RUN)] on B.Cu, length 0.5091 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(152.9550 mm, 109.5000 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 2.2910 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.3850 mm, 100.4200 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 0.5500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.3350 mm, 107.8800 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 2.5100 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.3350 mm, 105.3700 mm): Track [Net-(RN3B-R2.1)] on F.Cu, length 7.0004 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.5850 mm, 99.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 0.7500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(151.5850 mm, 104.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 7.0711 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(152.9550 mm, 104.4200 mm): Track [Net-(RN3D-R4.1)] on F.Cu, length 1.3700 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.4507 mm, 99.9200 mm): Track [Net-(RN3C-R3.1)] on F.Cu, length 9.1985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.8350 mm, 99.9200 mm): Track [Net-(RN3C-R3.1)] on F.Cu, length 0.6157 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(150.5850 mm, 105.6700 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 4.0000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.8350 mm, 100.9200 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 6.7175 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(150.5850 mm, 109.6700 mm): Track [Net-(RN3A-R1.1)] on F.Cu, length 3.3517 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(144.2050 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.5981 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0850 mm, 111.7229 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 3.8932 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.3350 mm, 108.9700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0850 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.4471 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.3321 mm, 108.9700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 1.9971 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5975 mm, 108.9700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 0.7248 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0850 mm, 113.1700 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 4.1200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.0850 mm, 108.4575 mm): Track [/Buffer Block A/A3_{CL}] on F.Cu, length 2.7875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.1335 mm, 109.6200 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.7985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.6790 mm, 109.6200 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 3.5271 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(132.1850 mm, 107.1260 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.4560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8593 mm, 111.3457 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 2.4406 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.3350 mm, 109.6200 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 0.6560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5850 mm, 113.1700 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.0985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5850 mm, 112.0715 mm): Track [/Buffer Block A/A2_{CL}] on F.Cu, length 1.0263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(143.6650 mm, 111.1700 mm): Track [/Buffer Block A/A2_{CL}] on B.Cu, length 2.3617 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0350 mm, 111.1700 mm): Track [/Buffer Block A/A2_{CL}] on B.Cu, length 4.6300 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8593 mm, 111.3457 mm): Track [/Buffer Block A/A2_{CL}] on B.Cu, length 0.2485 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.0885 mm, 83.4500 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.7985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8143 mm, 85.1757 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 2.4406 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(132.1400 mm, 80.9560 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.4560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.2900 mm, 83.4500 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 0.6560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5400 mm, 87.0000 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.0985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.6340 mm, 83.4500 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 3.5271 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5400 mm, 85.9015 mm): Track [/Buffer Block B/A2_{CL}] on F.Cu, length 1.0263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(143.6200 mm, 85.0000 mm): Track [/Buffer Block B/A2_{CL}] on B.Cu, length 2.3617 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8143 mm, 85.1757 mm): Track [/Buffer Block B/A2_{CL}] on B.Cu, length 0.2485 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.9900 mm, 85.0000 mm): Track [/Buffer Block B/A2_{CL}] on B.Cu, length 4.6300 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5525 mm, 82.8000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 0.7248 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0400 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 4.1200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0400 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 1.4471 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.0400 mm, 82.2875 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 2.7875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(140.0400 mm, 85.5529 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 3.8932 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.2871 mm, 82.8000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 1.9971 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.2900 mm, 82.8000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(144.1600 mm, 87.0000 mm): Track [/Buffer Block B/A3_{CL}] on F.Cu, length 1.5981 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2500 mm, 108.9471 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 3.8932 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.0000 mm, 111.7000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(107.1300 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.5981 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.7375 mm, 111.7000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 0.7248 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2500 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 4.1200 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2500 mm, 107.5000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.4471 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(117.2500 mm, 112.2125 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 2.7875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(114.0029 mm, 111.7000 mm): Track [/Buffer Block C/A3_{CL}] on F.Cu, length 1.9971 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.4757 mm, 109.3243 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.0263 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.4757 mm, 109.3243 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 2.4406 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(114.2015 mm, 111.0500 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.7985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(119.1500 mm, 113.5440 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.4560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(111.7500 mm, 108.5985 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 1.0985 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.0000 mm, 111.0500 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 0.6560 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.6560 mm, 111.0500 mm): Track [/Buffer Block C/A2_{CL}] on F.Cu, length 3.5271 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.4757 mm, 109.3243 mm): Track [/Buffer Block C/A2_{CL}] on B.Cu, length 0.2485 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.3000 mm, 109.5000 mm): Track [/Buffer Block C/A2_{CL}] on B.Cu, length 4.6300 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(107.6700 mm, 109.5000 mm): Track [/Buffer Block C/A2_{CL}] on B.Cu, length 2.3617 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0850 mm, 112.4200 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 0.3536 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.3350 mm, 110.2700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5975 mm, 110.2700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 3.5532 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0850 mm, 113.1700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 0.7500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8350 mm, 112.1700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 2.6870 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(136.9350 mm, 110.2700 mm): Track [/Buffer Block A/A1_{CL}] on F.Cu, length 1.6000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.3350 mm, 106.9600 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.9600 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.8350 mm, 112.1700 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.8142 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.2593 mm, 111.5943 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.6033 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.8350 mm, 110.4200 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 4.0048 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.2593 mm, 110.9910 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 0.8075 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.3350 mm, 107.9200 mm): Track [/Buffer Block A/A1_{CL}] on B.Cu, length 3.5355 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.0677 mm, 112.3964 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 0.7316 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(133.9850 mm, 111.5325 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 1.8875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(136.5913 mm, 110.9200 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 1.2563 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5850 mm, 112.9137 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 2.8195 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.3350 mm, 110.9200 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5850 mm, 112.9137 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 0.2563 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5975 mm, 110.9200 mm): Track [/Buffer Block A/A0_{CL}] on F.Cu, length 0.8662 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.3350 mm, 104.4200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.5556 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.8350 mm, 112.1637 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 0.3291 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(137.8350 mm, 110.8495 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.3141 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0145 mm, 109.6700 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 1.6681 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(144.2350 mm, 105.5200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 2.0000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.0850 mm, 109.6700 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 3.0705 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(144.2350 mm, 107.5200 mm): Track [/Buffer Block A/A0_{CL}] on B.Cu, length 3.0406 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5525 mm, 84.1000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 3.5532 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(136.8900 mm, 84.1000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 2.3375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.7900 mm, 86.0000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 2.6870 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0400 mm, 87.0000 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 0.7500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(139.0400 mm, 86.2500 mm): Track [/Buffer Block B/A1_{CL}] on F.Cu, length 0.3536 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.2143 mm, 85.4243 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.6033 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.7900 mm, 84.2500 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 4.0048 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.2900 mm, 81.7500 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 3.5355 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.2143 mm, 84.8210 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.8075 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.2900 mm, 80.7900 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.9600 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.7900 mm, 86.0000 mm): Track [/Buffer Block B/A1_{CL}] on B.Cu, length 0.8142 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.0321 mm, 86.2562 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 2.1301 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(136.5259 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.2359 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5400 mm, 86.7641 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 0.2359 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(134.5525 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 0.8662 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.0321 mm, 86.2562 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 0.7182 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(133.9400 mm, 85.3625 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.8875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(136.6274 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 1.3374 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(135.2900 mm, 84.7500 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5400 mm, 86.6626 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 2.7049 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.5400 mm, 87.0000 mm): Track [/Buffer Block B/A0_{CL}] on F.Cu, length 0.3374 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.7456 mm, 84.4300 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9113 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.3759 mm, 86.6000 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 4.2884 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.3900 mm, 80.3344 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 1.5556 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(146.3900 mm, 83.7856 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 3.4513 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(142.6644 mm, 86.6000 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 3.0688 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(145.2900 mm, 79.2344 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9844 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(144.8344 mm, 84.4300 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.9113 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(138.0321 mm, 86.2562 mm): Track [/Buffer Block B/A0_{CL}] on B.Cu, length 0.4862 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 2.0879 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.7375 mm, 109.7500 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.8662 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.7316 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(114.7437 mm, 109.7500 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 1.2563 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.0000 mm, 109.7500 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.7500 mm, 107.7563 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 0.2563 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(117.3500 mm, 109.1375 mm): Track [/Buffer Block C/A0_{CL}] on F.Cu, length 1.8875 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.2673 mm, 108.2736 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 0.3291 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.5000 mm, 109.8205 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.6681 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(113.5000 mm, 108.5063 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.3141 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.3205 mm, 111.0000 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 3.0705 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(107.1000 mm, 115.1500 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 1.5556 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(109.2500 mm, 111.0000 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 3.0406 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(107.1000 mm, 113.1500 mm): Track [/Buffer Block C/A0_{CL}] on B.Cu, length 2.0000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(114.4000 mm, 110.4000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 1.6000 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.0000 mm, 110.4000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 0.7375 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(116.7375 mm, 110.4000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 3.5532 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5000 mm, 108.5000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 2.6870 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.2500 mm, 108.2500 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 0.7500 mm
+[track_width]: Track width (board setup constraints min width 0.2032 mm; actual 0.2000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5000 mm, 108.5000 mm): Track [/Buffer Block C/A1_{CL}] on F.Cu, length 0.3536 mm
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
