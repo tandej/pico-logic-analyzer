@@ -989,18 +989,6 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 6.477) (xy -2.286 6.477) (xy -2.286 7.493) (xy -4.318 7.493)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -0.508 6.477) (xy 1.27 7.493) (xy 1.27 5.461) (xy -0.508 6.477)
 					)
 					(stroke
@@ -1013,7 +1001,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 1.397) (xy 1.27 2.413) (xy 1.27 0.381) (xy -0.508 1.397)
+						(xy -0.508 6.477) (xy -2.286 6.477) (xy -2.286 7.493) (xy -4.318 7.493)
 					)
 					(stroke
 						(width 0)
@@ -1026,6 +1014,18 @@
 				(polyline
 					(pts
 						(xy -0.508 1.397) (xy -2.286 1.397) (xy -2.286 2.413) (xy -4.064 2.413)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.397) (xy 1.27 2.413) (xy 1.27 0.381) (xy -0.508 1.397)
 					)
 					(stroke
 						(width 0)
@@ -1109,7 +1109,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 3.429) (xy -0.508 2.413) (xy -0.508 4.445) (xy 1.27 3.429)
+						(xy 1.27 3.429) (xy 3.048 3.429) (xy 3.048 2.413) (xy 4.318 2.413)
 					)
 					(stroke
 						(width 0)
@@ -1121,7 +1121,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 3.429) (xy 3.048 3.429) (xy 3.048 2.413) (xy 4.318 2.413)
+						(xy 1.27 3.429) (xy -0.508 2.413) (xy -0.508 4.445) (xy 1.27 3.429)
 					)
 					(stroke
 						(width 0)
@@ -1157,7 +1157,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -6.731) (xy 3.048 -6.731) (xy 3.048 -7.747) (xy 4.318 -7.747)
+						(xy 1.27 -6.731) (xy -0.508 -7.747) (xy -0.508 -5.715) (xy 1.27 -6.731)
 					)
 					(stroke
 						(width 0)
@@ -1169,7 +1169,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -6.731) (xy -0.508 -7.747) (xy -0.508 -5.715) (xy 1.27 -6.731)
+						(xy 1.27 -6.731) (xy 3.048 -6.731) (xy 3.048 -7.747) (xy 4.318 -7.747)
 					)
 					(stroke
 						(width 0)
@@ -3521,6 +3521,50 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "${PROJECTNAME}"
+		(exclude_from_sim no)
+		(at 186.436 190.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "271388d3-7f33-4d43-b512-c1111e77eda1")
+	)
+	(text "${PROJECT_GIT}\n${GIT_SHORTHASH}\n${AUTHOR}"
+		(exclude_from_sim no)
+		(at 285.242 181.864 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "42de4bc4-247b-4304-ba9b-8711bff87556")
+	)
+	(text "(sch) ${SCH_REV}"
+		(exclude_from_sim no)
+		(at 268.478 193.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c263479-20a7-4d9d-b510-f7d68e504dd8")
+	)
+	(text "(sch) ${SCH_REV_DATE}"
+		(exclude_from_sim no)
+		(at 206.502 193.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a705f63-8553-45c1-b067-7446deb8427f")
+	)
 	(text "This component is intended for PIN JUMPERS!"
 		(exclude_from_sim no)
 		(at 89.408 89.662 0)
@@ -3530,6 +3574,17 @@
 			)
 		)
 		(uuid "ddb0cf37-0b18-4834-8687-55df1eb6ec79")
+	)
+	(text "Pico Logic Analyzer- Digital Block"
+		(exclude_from_sim no)
+		(at 177.038 166.624 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left top)
+		)
+		(uuid "ea64a1a6-a670-4cc4-8c44-39e90e555fe7")
 	)
 	(text "U104 part is unidirectional (A->B)"
 		(exclude_from_sim no)

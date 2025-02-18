@@ -3075,6 +3075,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "${PROJECTNAME}"
+		(exclude_from_sim no)
+		(at 186.182 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f263834-261e-4e32-8633-58d6ca901910")
+	)
+	(text "(sch) ${SCH_REV_DATE}"
+		(exclude_from_sim no)
+		(at 206.248 194.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "237424a2-39cf-4366-b550-3ff2fda3a45e")
+	)
 	(text "Worst-case power dissipation is when load on \n1.8v is maxxed and everything else is ~0mA.\nVoltage drop ~= 100 mV, I = 12.1 mA,\nP ~= 78 mW"
 		(exclude_from_sim no)
 		(at 53.086 177.546 0)
@@ -3086,6 +3108,17 @@
 		)
 		(uuid "5a7747a8-0e82-4861-97c5-bcd09286b027")
 	)
+	(text "(sch) ${SCH_REV}"
+		(exclude_from_sim no)
+		(at 268.224 194.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c21e882-6924-4c0f-ba08-74f562a740f3")
+	)
 	(text "390 ohms gives 10.2 mA"
 		(exclude_from_sim no)
 		(at 43.942 164.084 0)
@@ -3095,6 +3128,28 @@
 			)
 		)
 		(uuid "8c97213b-9319-443a-99ac-e73dd16f1abe")
+	)
+	(text "${PROJECT_GIT}\n${GIT_SHORTHASH}\n${AUTHOR}"
+		(exclude_from_sim no)
+		(at 284.988 182.118 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "932ce2b6-fed7-4509-9fbb-c3c0674ef630")
+	)
+	(text "Pico Logic Analyzer- Top Level"
+		(exclude_from_sim no)
+		(at 176.784 166.878 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left top)
+		)
+		(uuid "96c88833-d7d2-4b9e-a9ce-411ccb321a15")
 	)
 	(text "100 ohms gives 11 mA"
 		(exclude_from_sim no)

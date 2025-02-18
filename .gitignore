@@ -25,13 +25,5 @@ fp-info-cache
 bom/
 *-backups/
 *.pcb3d
-board/*.zip
-board/*.gbr
-board/*.drl
-board/*.gbrjob
-board/*.pos
-board/*.csv
 
-export-duplicate
-
-!generated/*
+generated/*

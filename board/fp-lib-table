@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "asa-lib")(type "KiCad")(uri "/home/asa/Desktop/Hardware/Personal/asa-lib/asa-lib.pretty")(options "")(descr ""))
-)
